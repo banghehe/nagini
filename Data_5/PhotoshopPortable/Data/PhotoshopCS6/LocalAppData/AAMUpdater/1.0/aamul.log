@@ -1,0 +1,136 @@
+2018-11-05T01:23:27: >>> Adobe Updater Log Begin >>>
+2018-11-05T01:23:27: Application Version: 6.0.0.67
+2018-11-05T01:23:27: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-05T01:23:27: cmdline option: -logLevel = 2
+2018-11-05T01:23:27: StartupUtility : Loaded at startup/logon.
+2018-11-05T01:23:27: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-05T01:23:27: Updater has never been run on the machine.
+2018-11-05T01:23:27: StartupUtility : Window is NOT Elapsed.
+2018-11-05T01:23:27: <<< Adobe Updater Log End <<<
+
+
+2018-11-05T01:25:43: >>> Adobe Updater Log Begin >>>
+2018-11-05T01:25:43: Application Version: 6.0.0.67
+2018-11-05T01:25:43: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-05T01:25:43: cmdline option: -logLevel = 2
+2018-11-05T01:25:43: StartupUtility : Loaded in scheduled mode.
+2018-11-05T01:25:43: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-05T01:25:43: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2018-11-05T01:25:43: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2018-11-05T01:25:43: <<< Adobe Updater Log End <<<
+
+
+2018-11-05T01:46:20: >>> Adobe Updater Log Begin >>>
+2018-11-05T01:46:20: Application Version: 6.0.0.67
+2018-11-05T01:46:20: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-05T01:46:20: cmdline option: -logLevel = 2
+2018-11-05T01:46:20: StartupUtility : Loaded at startup/logon.
+2018-11-05T01:46:20: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-05T01:46:20: Scheduled check window has not yet elapsed 
+2018-11-05T01:46:20: StartupUtility : Window is NOT Elapsed.
+2018-11-05T01:46:20: <<< Adobe Updater Log End <<<
+
+
+2018-11-07T02:02:40: >>> Adobe Updater Log Begin >>>
+2018-11-07T02:02:40: Application Version: 6.0.0.67
+2018-11-07T02:02:40: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-07T02:02:40: cmdline option: -logLevel = 2
+2018-11-07T02:02:40: StartupUtility : Loaded at startup/logon.
+2018-11-07T02:02:40: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-07T02:02:40: Scheduled check window has elapsed 
+2018-11-07T02:02:40: StartupUtility : Window is Elapsed and going to launch PDApp.
+2018-11-07T02:02:40: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2018-11-07T02:02:40: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2018-11-07T02:02:41: <<< Adobe Updater Log End <<<
+
+
+2018-11-07T02:11:03: >>> Adobe Updater Log Begin >>>
+2018-11-07T02:11:03: Application Version: 6.0.0.67
+2018-11-07T02:11:03: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-07T02:11:03: cmdline option: -logLevel = 2
+2018-11-07T02:11:03: StartupUtility : Loaded in scheduled mode.
+2018-11-07T02:11:03: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-07T02:11:03: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2018-11-07T02:11:03: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2018-11-07T02:11:04: <<< Adobe Updater Log End <<<
+
+
+2018-11-07T07:26:30: >>> Adobe Updater Log Begin >>>
+2018-11-07T07:26:30: Application Version: 6.0.0.67
+2018-11-07T07:26:30: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-07T07:26:30: cmdline option: -logLevel = 2
+2018-11-07T07:26:30: StartupUtility : Loaded at startup/logon.
+2018-11-07T07:26:30: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-07T07:26:30: Scheduled check window has not yet elapsed 
+2018-11-07T07:26:30: StartupUtility : Window is NOT Elapsed.
+2018-11-07T07:26:30: <<< Adobe Updater Log End <<<
+
+
+2018-11-07T14:00:50: >>> Adobe Updater Log Begin >>>
+2018-11-07T14:00:50: Application Version: 6.0.0.67
+2018-11-07T14:00:50: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-07T14:00:50: cmdline option: -logLevel = 2
+2018-11-07T14:00:50: StartupUtility : Loaded at startup/logon.
+2018-11-07T14:00:50: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-07T14:00:50: Scheduled check window has not yet elapsed 
+2018-11-07T14:00:50: StartupUtility : Window is NOT Elapsed.
+2018-11-07T14:00:50: <<< Adobe Updater Log End <<<
+
+
+2018-11-07T15:12:12: >>> Adobe Updater Log Begin >>>
+2018-11-07T15:12:12: Application Version: 6.0.0.67
+2018-11-07T15:12:12: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-07T15:12:12: cmdline option: -logLevel = 2
+2018-11-07T15:12:12: StartupUtility : Loaded at startup/logon.
+2018-11-07T15:12:12: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-07T15:12:12: Scheduled check window has not yet elapsed 
+2018-11-07T15:12:12: StartupUtility : Window is NOT Elapsed.
+2018-11-07T15:12:12: <<< Adobe Updater Log End <<<
+
+
+2018-11-07T19:00:00: >>> Adobe Updater Log Begin >>>
+2018-11-07T19:00:00: Application Version: 6.0.0.67
+2018-11-07T19:00:00: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-07T19:00:00: cmdline option: -logLevel = 2
+2018-11-07T19:00:00: StartupUtility : Loaded in scheduled mode.
+2018-11-07T19:00:00: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-07T19:00:00: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2018-11-07T19:00:00: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2018-11-07T19:00:00: <<< Adobe Updater Log End <<<
+
+
+2018-11-08T02:02:20: >>> Adobe Updater Log Begin >>>
+2018-11-08T02:02:20: Application Version: 6.0.0.67
+2018-11-08T02:02:20: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-08T02:02:20: cmdline option: -logLevel = 2
+2018-11-08T02:02:20: StartupUtility : Loaded at startup/logon.
+2018-11-08T02:02:20: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-08T02:02:20: Scheduled check window has not yet elapsed 
+2018-11-08T02:02:20: StartupUtility : Window is NOT Elapsed.
+2018-11-08T02:02:20: <<< Adobe Updater Log End <<<
+
+
+2018-11-09T01:34:29: >>> Adobe Updater Log Begin >>>
+2018-11-09T01:34:29: Application Version: 6.0.0.67
+2018-11-09T01:34:29: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-09T01:34:29: cmdline option: -logLevel = 2
+2018-11-09T01:34:29: StartupUtility : Loaded at startup/logon.
+2018-11-09T01:34:29: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-09T01:34:29: Scheduled check window has elapsed 
+2018-11-09T01:34:29: StartupUtility : Window is Elapsed and going to launch PDApp.
+2018-11-09T01:34:29: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2018-11-09T01:34:29: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2018-11-09T01:34:32: <<< Adobe Updater Log End <<<
+
+
+2018-11-09T01:36:21: >>> Adobe Updater Log Begin >>>
+2018-11-09T01:36:21: Application Version: 6.0.0.67
+2018-11-09T01:36:21: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+2018-11-09T01:36:21: cmdline option: -logLevel = 2
+2018-11-09T01:36:21: StartupUtility : Loaded in scheduled mode.
+2018-11-09T01:36:21: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2018-11-09T01:36:21: StartupUtility: Calling LaunchExecutable for exe  = C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+2018-11-09T01:36:21: App launched is (UTF8)=> = "C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe"
+2018-11-09T01:36:21: <<< Adobe Updater Log End <<<
+
+

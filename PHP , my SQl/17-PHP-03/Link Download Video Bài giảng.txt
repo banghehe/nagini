@@ -1,0 +1,8 @@
+﻿THAO TÁC VỚI FILE TRONG PHP
+www.mediafire.com/download/s5d5usqjrh0no1h/php_basic_08.rar
+
+QUY TRÌNH UPLOAD FILE TRONG PHP
+http://www.mediafire.com/download/rnuiqtf9eo3anna/php+basic+09.rar
+
+QUY TRÌNH DOWNLOAD FILE TRONG PHP
+http://www.mediafire.com/download/yddq2mtc0xik0le/php+basic+10.rar

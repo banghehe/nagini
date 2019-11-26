@@ -1,0 +1,75 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+#slider img {
+    width: 100%;
+}
+
+.section {
+    padding: 80px 0;
+}
+.section .title {
+    margin-bottom: 40px;
+}
+#section-1 {
+    padding: 120px 0;
+}
+#section-1 .title {
+    margin-bottom: 80px;
+}
+#section-1 .item img {
+    margin-bottom: 20px;
+}
+#section-1 .item .excerpt{
+    padding: 0 15px;
+    font-size: 18px;
+    color: #777;
+}
+#section-2 {
+    background: #000;
+}
+#section-2 .item {
+    height: 100%;
+    border: 1px solid #777;
+    background: #fff;
+    color: #777;
+    padding: 20px;
+}
+#section-2 .item .title, #section-3 .item .title {
+    font-size: 25px;
+    margin: 0 0 20px;
+    padding: 0 0 20px;
+    border-bottom: 1px solid #777;
+}
+#section-2 .item .excerpt, #section-3 .item .excerpt {
+    margin: 0 0 50px;
+    text-align: justify;
+}
+#section-3 .item img {
+    margin-bottom: 20px;
+}
+.section .title a {
+    text-decoration: none;
+    color: #000;
+}
+#footer {
+    background: #000;
+}
+#footer .item ul{
+    padding: 0;
+    list-style: none;
+}
+#footer .item ul li {
+    margin-bottom: 15px;
+}
+#footer .item ul li a {
+    color: #777;
+    text-decoration: none;
+}
+#footer .copy {
+    margin: 40px 0 0;
+    padding: 40px 0 0;
+    border-top: 1px solid #777;
+    color: #777;
+}

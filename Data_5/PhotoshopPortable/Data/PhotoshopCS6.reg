@@ -1,0 +1,1448 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"ApplicationPath"="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\"
+"PluginPath"="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Plug-Ins\\"
+"FreeBeforeSlopAdjust"=dword:0037394c
+"FreeSpace"=dword:001e1783
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+@="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+@="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Plug-Ins\\"
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\62B5F48A990C]
+@=hex:a7,2a,c9,19,c3,a4,b5,4d,07,f9,8b,ab,7a,19,7d,39,5f,6c,62,42,93,8b,16,6b,\
+  df,8f,ec,19,51,82,79,d1,b9,23,98,6f,52,81,da,2b,8a,70,5f,e7,f6,70,99,66,2d,\
+  e7,00,93,d9,69,e3,fc,47,4d,a1,80,95,6b,96,01,34,9b,fd,1f,db,ee,de,35,a7,01,\
+  e2,7b,84,cc,49,aa,50,f9,6a,a3,3f,1e,7b,e8,a8,df,aa,2e,ca,d6,50,e2,73,42,aa,\
+  d4,a1,8f,ae,dd,ca,12,e6,f8,d4,2e,fd,8c
+
+[HKEY_CURRENT_USER\Software\Adobe\A39983EC1D11]
+@="936C894BA0F0BB05A16E84A12D770DA4E522993D"
+
+[HKEY_CURRENT_USER\Software\Adobe\A9E2C8FD8108]
+@="ACD0AFEAF3F228AFF4CD27C7F8CD98813A0D5C23"
+
+[HKEY_CURRENT_USER\Software\Adobe\C0C5DABA576D]
+@=hex:98,48,4e,a1,f3,d5,82,72,4d,fd,44,f7,53,5b,15,62,ce,48,04,e4,25,13,d0,da,\
+  be,66,3b,7e,75,58,76,1d,cb,72,ac,18,4d,00,34,05,74,93,e9,49,33,11,00,81,7e,\
+  6c,b4,f5,b8,98,e6,3b,81,19,8e,5c,78,97,1f,13,6d,8c,ba,10,d0,35,12,d3,ab,88,\
+  40,ff,1b,a4,04,92,e3,66,fb,67,73,9a,c9,be,99,39,eb,ab,06,f5,14,9c,a0,f0,ee,\
+  ac,cf,d1,be,87,ed,49,a9,a5,10,ea,89,a9
+
+[HKEY_CURRENT_USER\Software\Adobe\Common]
+
+[HKEY_CURRENT_USER\Software\Adobe\Common\12.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Common\12.0\Sites]
+
+[HKEY_CURRENT_USER\Software\Adobe\Common\12.0\Sites\-Summary]
+"Number of Sites"=dword:00000000
+"Current Site"=""
+"Current Server Configuration"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="251b1da5-49e5-4bfb-ae70-810733e58cb3"
+"Agent"="C:\\Program Files (x86)\\Adobe\\Adobe Dreamweaver CS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Adobe Application Manager]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2017-10-13T09:50:14Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Dreamweaver CS6]
+"Prerelease"=dword:00000000
+"Build"="5808"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Dreamweaver CS6_12.0.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CSXS.3]
+"LogLevel"="1"
+
+[HKEY_CURRENT_USER\Software\Adobe\D07CCC8025E3]
+@=hex:98,4a,44,a3,f3,d5,82,7e,41,f0,45,f4,53,5a,12,61,c3,42,03,eb,20,19,d0,d6,\
+  be,66,3b,7e,75,58,76,1d,cb,72,ac,18,4d,00,34,05,a1,94,24,49,33,11,00,81,7e,\
+  6c,b4,f5,b8,98,e6,3b,81,19,8e,5c,78,97,1f,13,6d,8c,ba,10,d0,35,12,d3,ab,88,\
+  40,ff,1b,a4,04,92,e3,66,fb,67,73,9a,c9,be,ff,7c,ac,1d,06,f5,14,9c,01,2b,1b,\
+  32,1b,7a,d7,68,da,5b,3a,59,95,92,ea,cf
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6]
+@=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Accessibility]
+"Accessibility Image Options"="TRUE"
+"Accessibility Form Options"="TRUE"
+"Accessibility Frame Options"="TRUE"
+"Accessibility Media Options"="TRUE"
+"Use Large Font"="FALSE"
+"Offscreen Rendering"="TRUE"
+"Keep Focus In Panel"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Application Bar]
+"Dock Application Bar"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Block Visualization]
+"ShowDivOutlines"="TRUE"
+"ShowDivBoxmodel"="TRUE"
+"ShowDivBackgrounds"="FALSE"
+"ShowLayerOutlines"="TRUE"
+"DivVisOutlineColor"=dword:00000000
+"DivVisOutlineStyle"="DOTTED"
+"DivVisOutlineWidth"=dword:00000001
+"LayerVisOutlineColor"=dword:00c0c0c0
+"LayerVisOutlineStyle"="OUTSET"
+"LayerVisOutlineWidth"=dword:00000001
+"SelectedDivOutlineColor"=dword:00ff0000
+"SelectedDivOutlineWidth"=dword:00000003
+"BoxModelMarginColor"=dword:00fae2d9
+"BoxModelPaddingColor"=dword:00d5d5de
+"DivVisBackgroundColors0"=dword:0220ff20
+"DivVisBackgroundColors1"=dword:0200ffff
+"DivVisBackgroundColors2"=dword:0233ffaa
+"DivVisBackgroundColors3"=dword:02ffe044
+"DivVisBackgroundColors4"=dword:02ffffb0
+"DivVisBackgroundColors5"=dword:02b0ff70
+"DivVisBackgroundColors6"=dword:02ff9966
+"DivVisBackgroundColors7"=dword:02d0a0ff
+"DivVisBackgroundColors8"=dword:026060ff
+"DivVisBackgroundColors9"=dword:0266ccff
+"DivVisBackgroundColors10"=dword:02ffff60
+"DivVisBackgroundColors11"=dword:02ffcc99
+"DivVisBackgroundColors12"=dword:02ff66ff
+"DivVisBackgroundColors13"=dword:028090ff
+"DivVisBackgroundColors14"=dword:0266ffcc
+"DivVisBackgroundColors15"=dword:0299ffff
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Browser Launch Menus]
+"Browse Directory"=""
+"Count"=dword:00000004
+"UseTemp"=dword:00000000
+"Name00"="Firefox"
+"Path00"="C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"
+"Name01"="IExplore"
+"Path01"="C:\\Program Files\\Internet Explorer\\IEXPLORE.EXE"
+"Name02"="chrome"
+"Path02"="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+"Name03"="devicecentral"
+"Path03"="some path"
+"Name04"=""
+"Path04"=""
+"Name05"=""
+"Path05"=""
+"Name06"=""
+"Path06"=""
+"Name07"=""
+"Path07"=""
+"Name08"=""
+"Path08"=""
+"Name09"=""
+"Path09"=""
+"Name0A"=""
+"Path0A"=""
+"Name0B"=""
+"Path0B"=""
+"Name0C"=""
+"Path0C"=""
+"Name0D"=""
+"Path0D"=""
+"Name0E"=""
+"Path0E"=""
+"Name0F"=""
+"Path0F"=""
+"Name10"=""
+"Path10"=""
+"Name11"=""
+"Path11"=""
+"Name12"=""
+"Path12"=""
+"Name13"=""
+"Path13"=""
+"Primary"=dword:00000000
+"Secondary"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Business Catalyst]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Code Collapse]
+"Max Chars Displayed"=dword:00000007
+"Max Chars Per Tooltip Line"=dword:000000ff
+"Max Tooltip Lines Displayed"=dword:0000000a
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Code Hints]
+"Code Hints Enabled"="TRUE"
+"Description Tooltip Enabled"="TRUE"
+"Code Hints Delay"=dword:00000000
+"Closing Tag Completion"="Starting close tag"
+"Auto Close Quote"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Code Hints\DisabledGroups]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Color Picker]
+"palette ID"=dword:00007f5c
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\CSS Layout Framework Preferences]
+"Visible Columns"="FALSE"
+"Visible Boxes"="FALSE"
+"Visible Editor"="FALSE"
+"Default Layout Type"="fluid"
+"Correct Column Rounding"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Custom Colors]
+"Color00"="#FFF"
+"Color01"="#FFF"
+"Color02"="#FFF"
+"Color03"="#FFF"
+"Color04"="#FFF"
+"Color05"="#FFF"
+"Color06"="#FFF"
+"Color07"="#FFF"
+"Color08"="#FFF"
+"Color09"="#FFF"
+"Color0A"="#FFF"
+"Color0B"="#FFF"
+"Color0C"="#FFF"
+"Color0D"="#FFF"
+"Color0E"="#FFF"
+"Color0F"="#FFF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Diff]
+"DiffPath"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Download Stats Preferences]
+"Units"="Kilobytes"
+"Modem Speed"="393216"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Encoding Preferences]
+"Open file dialog encoding"=dword:ffffffff
+"Use default encoding when opening files without a specified encoding"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\External Editor]
+"Path"=""
+"Save on Launch"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\External File Synchronization]
+"Synch Type"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Feature Management]
+"Timeline"="FALSE"
+"LayoutMode"="FALSE"
+"SiteMap"="FALSE"
+"FlashElements"="FALSE"
+"LiveData"="FALSE"
+"FlashPaper"="FALSE"
+"SiteConnections"="FALSE"
+"Validator"="TRUE"
+"LiveViewInsertion"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\File Browser]
+"Expanded Dir 0"="@@NOSITEDEFINED@@"
+"Expanded Dirs"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Find And Replace]
+"LastQueryMode"=dword:00000001
+"Q_1_0"="<?xml version=\"1.0\"?> <dwquery> <queryparams matchcase=\"false\" ignorewhitespace=\"true\" useregexp=\"fa"
+"Q_1_1"="lse\" wholeword=\"false\" /> <find searchmode=\"document\"> <qtext qname=\"carousel\" qraw=\"true\"></qtext> "
+"Q_1_2"="</find> <replace action=\"replaceText\" param1=\"\" param2=\"\"/> </dwquery> "
+"Q_1_3"=""
+"Q_1_4"=""
+"FindWhat"="carousel"
+"ReplaceWith"=""
+"MatchWholeWord"=dword:00000000
+"IgnoreWhitespace"=dword:00000001
+"MatchCase"=dword:00000000
+"UseRegExps"=dword:00000000
+"FindReplaceXPos"=dword:0000032b
+"FindReplaceYPos"=dword:00000173
+"FindReplaceXSize"=dword:0000034e
+"FindReplaceYSize"=dword:0000017c
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\FlashFloaters]
+"revision"=dword:00000004
+"NumFlashFloaters"=dword:00000001
+"FloaterName1"="BL"
+"FloaterPath1"="file:///C|/Program Files (x86)/Common Files/Adobe/CS6ServiceManager/extensions/BrowserLab/BrowserLabDW.swf"
+"FloaterScriptPath1"="file:///C|/Program Files (x86)/Common Files/Adobe/CS6ServiceManager/extensions/BrowserLab/BrowserLabDW.js"
+"FloaterTabName1"="Adobe BrowserLab"
+"FloaterScaleMode1"=dword:ffffffff
+"FloaterDockSide1"=dword:00005000
+"FloaterIsTarget1"=dword:00000001
+"FloaterExtStyle1"="PlugPlug"
+"FloaterIconPathNormal1"="C:\\Program Files (x86)\\Common Files\\Adobe\\CS6ServiceManager\\extensions\\BrowserLab\\PL_BrowserLab_N.png"
+"FloaterIconPathRollOver1"="C:\\Program Files (x86)\\Common Files\\Adobe\\CS6ServiceManager\\extensions\\BrowserLab\\PL_BrowserLab_R.png"
+"FloaterMinWidth1"=dword:000000d0
+"FloaterMinHeight1"=dword:00000073
+"FloaterMaxWidth1"=dword:00002710
+"FloaterMaxHeight1"=dword:00002710
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\ThirdParty]
+"NumFloaters"=dword:00000002
+"Floater1"="BCModulePanel"
+"Floater2"="MultiscreenPreview"
+"Floater3"="jQuerySwatchContainer"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\Toolbars3]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\Toolbars3\Settings]
+"Show Icon Labels"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\Toolbars3\Settings1]
+"ToolbarID0"="MM_Toolbar_StyleRendering"
+"Visibility0"=dword:00000000
+"Toolbar Floating0"=dword:00000000
+"Toolbar Dock ID0"=dword:0000e820
+"Toolbar Rect Left0"=dword:00007cfe
+"Toolbar Rect Top0"=dword:00007d39
+"Toolbar Rect Right0"=dword:00007e96
+"Toolbar Rect Bottom0"=dword:00007d57
+"Toolbar Rect Left Parent 59424"=dword:00000000
+"Toolbar Rect Top Parent 59424"=dword:0000004a
+"ToolbarID1"="Standard_Toolbar"
+"Visibility1"=dword:00000000
+"Toolbar Floating1"=dword:00000000
+"Toolbar Dock ID1"=dword:0000e820
+"ToolbarID2"="DW_Toolbar_Main"
+"Visibility2"=dword:00000001
+"Toolbar Floating2"=dword:00000000
+"Toolbar Dock ID2"=dword:0000e820
+"Toolbar Rect Left2"=dword:fffffffe
+"Toolbar Rect Top2"=dword:0000004a
+"Toolbar Rect Right2"=dword:0000025f
+"Toolbar Rect Bottom2"=dword:0000006b
+"Toolbar Hidden Items2"="\"DW_LiveCode\" \"DW_InspectMode\" \"Browse_Back\" \"Browse_Forward\" \"Browse_Refresh_Stop\" \"Browse_OutOfSync\" \"Address_URL\" \"DW_LiveViewOptions\" \"\" \"DW_VisualAids\""
+"Num Toolbars"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\Toolbars3\Settings2]
+"Num Toolbars"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\FloaterStates\Toolbars3\Settings4]
+"ToolbarID0"="DW_CodeView_Toolbar"
+"Visibility0"=dword:00000001
+"Toolbar Floating0"=dword:00000000
+"Toolbar Dock ID0"=dword:0000e81b
+"Toolbar Rect Left0"=dword:00000000
+"Toolbar Rect Top0"=dword:0000006b
+"Toolbar Rect Right0"=dword:0000001a
+"Toolbar Rect Bottom0"=dword:000003f1
+"Toolbar Rect Left Parent 59419"=dword:00000000
+"Toolbar Rect Top Parent 59419"=dword:0000006b
+"Num Toolbars"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Menu]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Menu\en_US]
+"Item01"="Verdana, Geneva, sans-serif"
+"Item02"="Georgia, Times New Roman, Times, serif"
+"Item03"="Courier New, Courier, monospace"
+"Item04"="Arial, Helvetica, sans-serif"
+"Item05"="Tahoma, Geneva, sans-serif"
+"Item06"="Trebuchet MS, Arial, Helvetica, sans-serif"
+"Item07"="Arial Black, Gadget, sans-serif"
+"Item08"="Times New Roman, Times, serif"
+"Item09"="Palatino Linotype, Book Antiqua, Palatino, serif"
+"Item10"="Lucida Sans Unicode, Lucida Grande, sans-serif"
+"Item11"="MS Serif, New York, serif"
+"Item12"="Lucida Console, Monaco, monospace"
+"Item13"="Comic Sans MS, cursive"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences]
+"Default Encoding"=dword:0000fde9
+"Number Encodings"=dword:00000011
+"Use Dynamic Font Mapping"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_0]
+"Encoding Name"="Chinese Simplified (GB18030)"
+"Windows Character Set"=dword:00000086
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="SimSun-18030"
+"Proportional Size"=dword:0000000a
+"Proportional CharSet"=dword:00000086
+"Fixed Name"="SimSun-18030"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000086
+"HTML inspector font"="SimSun-18030"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:00000086
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_1]
+"Encoding Name"="Baltic"
+"Windows Character Set"=dword:000000ba
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Arial"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000ba
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000ba
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000ba
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_10]
+"Encoding Name"="Hebrew"
+"Windows Character Set"=dword:000000b1
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="David"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000b1
+"Fixed Name"="Miriam Fixed"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000b1
+"HTML inspector font"="Miriam Fixed"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000b1
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_11]
+"Encoding Name"="Greek"
+"Windows Character Set"=dword:000000a1
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Arial"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000a1
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000a1
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000a1
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_12]
+"Encoding Name"="Thai"
+"Windows Character Set"=dword:000000de
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Cordia New"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000de
+"Fixed Name"="Cordia New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000de
+"HTML inspector font"="Cordia New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000de
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_13]
+"Encoding Name"="Korean"
+"Windows Character Set"=dword:00000081
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Dotum"
+"Proportional Size"=dword:0000000a
+"Proportional CharSet"=dword:00000081
+"Fixed Name"="DotumChe"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000081
+"HTML inspector font"="DotumChe"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:00000081
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_14]
+"Encoding Name"="Latin 3"
+"Windows Character Set"=dword:000000a2
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Arial"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000a2
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000a2
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000a2
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_15]
+"Encoding Name"="Turkish"
+"Windows Character Set"=dword:000000a2
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Arial"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000a2
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000a2
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000a2
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_16]
+"Encoding Name"="Arabic"
+"Windows Character Set"=dword:000000b2
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Arial"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000b2
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000b2
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000b2
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_2]
+"Encoding Name"="Western European"
+"Windows Character Set"=dword:00000000
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Times New Roman"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:00000000
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000000
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_3]
+"Encoding Name"="Vietnamese"
+"Windows Character Set"=dword:000000a3
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Arial"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000a3
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000a3
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000a3
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_4]
+"Encoding Name"="Chinese Traditional"
+"Windows Character Set"=dword:00000088
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="MingLiU"
+"Proportional Size"=dword:0000000a
+"Proportional CharSet"=dword:00000088
+"Fixed Name"="MingLiU"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000088
+"HTML inspector font"="MingLiU"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:00000088
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_5]
+"Encoding Name"="Unicode"
+"Windows Character Set"=dword:00000001
+"Macintosh Font Script"=dword:00000001
+"Proportional Name"="Times New Roman"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:00000001
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000001
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:00000014
+"HTML inspector Char Set"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_6]
+"Encoding Name"="Chinese Simplified"
+"Windows Character Set"=dword:00000086
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="NSimSun"
+"Proportional Size"=dword:0000000a
+"Proportional CharSet"=dword:00000086
+"Fixed Name"="NSimSun"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000086
+"HTML inspector font"="NSimSun"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:00000086
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_7]
+"Encoding Name"="Central European"
+"Windows Character Set"=dword:000000ee
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Times New Roman"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000ee
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000ee
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000ee
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_8]
+"Encoding Name"="Cyrillic"
+"Windows Character Set"=dword:000000cc
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="Times New Roman"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:000000cc
+"Fixed Name"="Courier New"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:000000cc
+"HTML inspector font"="Courier New"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:000000cc
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Font Preferences\CharEncoding_9]
+"Encoding Name"="Japanese"
+"Windows Character Set"=dword:00000080
+"Macintosh Font Script"=dword:00000000
+"Proportional Name"="MS PGothic"
+"Proportional Size"=dword:0000000c
+"Proportional CharSet"=dword:00000080
+"Fixed Name"="MS Gothic"
+"Fixed Size"=dword:0000000a
+"Fixed CharSet"=dword:00000080
+"HTML inspector font"="MS Gothic"
+"HTML inspector font size"=dword:0000000a
+"HTML inspector Char Set"=dword:00000080
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\General Preferences]
+"Active Inspector ID"=dword:00000004
+"Translate SSIs"="TRUE"
+"Autorename Form Items"="TRUE"
+"Show Start Page"="TRUE"
+"Show Related Docs"="TRUE"
+"Discover Dynamic Related Docs Method"="manual"
+"Show Related Files from the Live View Browser"="manual"
+"Show Code Navigator Popup"="FALSE"
+"Show Last Open Documents"="FALSE"
+"Update Links when file change"=dword:00000001
+"Show Dialog"="TRUE"
+"Make Writable"="TRUE"
+"Show Open File Message"="TRUE"
+"Max number of history steps"=dword:00000032
+"File Extension"=".htm"
+"Inline Input Enabled"="TRUE"
+"Bidirectional Locale"="FALSE"
+"Allow Blocks with no Vertical Space"="FALSE"
+"Allow Multiple Spaces"="FALSE"
+"Avoid Bold and Italic"="TRUE"
+"Avoid Font Tags"="TRUE"
+"Follow Heading with Paragraph"="TRUE"
+"Use Fluid Media"="check"
+"Typing OnIdle Delay"=dword:0000014d
+"Drop Office Action"=".htm"
+"Migrated Prefs"="TRUE"
+"External Paste Type"="basic"
+"External Paste Convert Smart Quotes"="FALSE"
+"External Paste Retain Line Breaks"="TRUE"
+"External Paste Cleanup Word Par Spacing"="TRUE"
+"Paste Special Default Type"="structure"
+"Paste Special Default Retain Line Breaks"="TRUE"
+"Paste Special Default Cleanup Word"="TRUE"
+"Import Office Default Type"="basic"
+"Import Office Default Cleanup Word Par Spacing"="TRUE"
+"Migrated Sites"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Grids Preferences]
+"Visible Grid"="FALSE"
+"Visible Grid Resolution"="50"
+"Visible Grid Units"=dword:00000000
+"Visible Grid Draw Type"=dword:00000000
+"Visible Grid Color"="#CC9"
+"Snap Grid"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences]
+"Fireworks Installed"=dword:00000000
+"Most Recent Fireworks Installed"=dword:00000000
+"Flash Installed"=dword:00000000
+"Most Recent Flash Installed"=dword:00000000
+"Open As Text"=".js .asa .css .inc .txt .as .asc .asr .htaccess .htpasswd"
+"Number of Groups"=dword:0000000b
+"Fireworks Path"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group0]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Photoshop.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group1]
+"Number of Editors"=dword:00000002
+"Primary Editor"=dword:00000001
+"Editor Path0"="C:\\Program Files\\Internet Explorer\\iexplore.exe"
+"Editor Path1"="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Photoshop.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group10]
+"Number of Editors"=dword:00000000
+"Primary Editor"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group2]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Photoshop.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group3]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Users\\MrTuan\\Desktop\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Photoshop.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group4]
+"Number of Editors"=dword:00000000
+"Primary Editor"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group5]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group6]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group7]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group8]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Editor Group9]
+"Number of Editors"=dword:00000001
+"Primary Editor"=dword:00000000
+"Editor Path0"="C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group0]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".png"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group1]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group10]
+"Number of Extensions"=dword:00000003
+"File Extension0"=".swf"
+"File Extension1"=".swt"
+"File Extension2"=".spl"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group2]
+"Number of Extensions"=dword:00000003
+"File Extension0"=".jpg"
+"File Extension1"=".jpe"
+"File Extension2"=".jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group3]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group4]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".fla"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group5]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".wav"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group6]
+"Number of Extensions"=dword:00000003
+"File Extension0"=".aiff"
+"File Extension1"=".aif"
+"File Extension2"=".aifc"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group7]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".mp3"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group8]
+"Number of Extensions"=dword:00000002
+"File Extension0"=".mpg"
+"File Extension1"=".mpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Helper Applications Preferences\Extension Group9]
+"Number of Extensions"=dword:00000001
+"File Extension0"=".mov"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\HTML Preferences]
+"Default URL Format"=dword:00000001
+"Use CENTER Tag"="FALSE"
+"HTML inspector Autoindent"="FALSE"
+"Encode Entities in Attribute Values"="TRUE"
+"Never Rewrite Certain Files"="TRUE"
+"Never Rewrite Extension List"=".as .asr .asc .asp .ascx .asmx .aspx .cfc .cfm .cfml .config .ihtml .js .jsp .php .php3 .svg .xml .xsl .xslt .xul"
+"Throw Away Extra End Tags"="FALSE"
+"Fix Invalid Nesting"="FALSE"
+"Warn When Rewriting Invalid HTML"="FALSE"
+"Encode Special Characters in URLs"=dword:00000000
+"Double Byte NBSP"="FALSE"
+"Fixup Active Content"="TRUE"
+"Check Active Content on Open"="TRUE"
+"Wrap Script Tags"="none"
+"Wrap Script Tags - XHTML"="none"
+"Wrap Style Tags"="none"
+"Wrap Style Tags - XHTML"="none"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Insert Panel Defaults2]
+"Insert View Mode"="1"
+"Active Tab"="Common"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Insert Panel Defaults2\MenuButtons]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Insert Panel Defaults2\MenuButtons\Defaults]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Invisibles Defaults]
+"Visible"="TRUE"
+"Show"="17816901"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Java/JSP Preferences]
+"Java/JDK home"=""
+"Java Archiver"=""
+"Java Compiler"=""
+"JSP Compiler batch script"=""
+".war Archiver"="$${Jar} cvf \"$${Name}\" \"$${Files}\""
+".java Compiler"="$${JavaC} -classpath \"$${ClassPath}\" -sourcepath \"$${SourceDir}\" -d \"$${ClassDir}\" $${FileName}"
+".jsp Compiler"="$${JSPCBatch} \"$${JavaHome}\" $${JRUNHome} \"$${ProjectRoot}\" \"$${ProjectClassPath}\" \"$${FileName}\" \"$${JavaC}\" $${DebugFlag}"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Layers Defaults]
+"Tag"="DIV"
+"Visibility"="default"
+"Width"="200"
+"Height"="115"
+"Background Color"=""
+"Background Image"=""
+"Always Nest"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Layout Mode]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Layout Preferences]
+"Constrain Layout"="FALSE"
+"Evolve: Show Grids"="TRUE"
+"Evolve: Snap To Grid"="TRUE"
+"Evolve: Prevent Layer Overlaps"="TRUE"
+"Evolve: Show Layers Palette"="TRUE"
+"Devolve: Show Grids"="FALSE"
+"Devolve: Snap To Grid"="FALSE"
+"Devolve: Prevent Layer Overlaps"="FALSE"
+"Devolve: Show Layers Palette"="FALSE"
+"Devolve: Use Transparent GIFs"="TRUE"
+"Devolve: Center Table On Page"="FALSE"
+"Devolve: Generate Most Accurate Table"="TRUE"
+"Devolve: Collapsible Column Width"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Library]
+"Use XML Notation"="FALSE"
+"Mouseover Highlight"="#FF7070"
+"Library Lock Color"="#FFC"
+"Library Editable Color"="#6CC"
+"Nested Template Editable Color"="#FC3"
+"Template Lock Color"="#FFC"
+"Third Party Tag Color"="#CFF"
+"Dyn Untranslated Color"="#CFF"
+"Dyn Up-to-Date Color"="#FFC"
+"Dyn Needs Refresh Color"="#CFF"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Live View]
+"Starts with interactivity enabled"="TRUE"
+"Follow all links by default"="FALSE"
+"Automatically sync remote files"="TRUE"
+"Automatically refresh browser when focused"="TRUE"
+"Highlight changes in Live Code"="TRUE"
+"Process server-side includes"="TRUE"
+"Use LayerCache"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\NativeAppFramework]
+"pathToPhoneGap"=""
+"pathToAndroidSDK"=""
+"bundleID"=""
+"pathToiOSSDK"=""
+"pathToAnt"=""
+"pathToJDK"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\New Document Preferences]
+"Default Document Type"="HTML"
+"Show Dialog"="TRUE"
+"Default XHTML Option"="FALSE"
+"Last Layout Selected"=dword:00000000
+"Last Category Selected"=dword:00000000
+"Last Item Selected"=dword:00000011
+"Last Where Layout CSS"=dword:00000000
+"Create Document"="TRUE"
+"Update Page When Template Changes"="TRUE"
+"Default HTML Extension"="html"
+"columns info"="5 8 10 91 93 90 25"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\New Document Preferences\CSS Files]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\New Document Preferences\Default DTDs]
+"HTML"="mm_xhtml_1_transitional"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Optional Dialog Windows]
+"Move File/Folder on Server"="FALSE"
+"templateFunkyNesting"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Owl prefs]
+"persistant_drawer"=dword:00000000
+"auto_show_drawer"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Printing]
+"Print Selection Only"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Property Inspector Preferences]
+"ViewCSSTab"="FALSE"
+"Maximize"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\QA]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Recent File List]
+"File1"="C:\\Users\\MrTuan\\Desktop\\bootstrap-project-K166\\index.html"
+"File2"="F:\\Giáo Tr?nh\\NodeJS 2019\\Express\\03 - Module MySQL\\nodejs-shop\\common\\database.js"
+"File3"="C:\\Users\\MrTuan\\Desktop\\nodejs-k15\\apps\\controllers\\admin\\index.js"
+"File4"="C:\\Users\\MrTuan\\Desktop\\nodejs-k15\\routes\\web.js"
+"File5"="C:\\Users\\MrTuan\\Desktop\\nodejs-k15\\app.js"
+"File6"="C:\\Users\\MrTuan\\Desktop\\nodejs-k15\\bin\\www"
+"File7"="F:\\Giáo Tr?nh\\NodeJS 2019\\Express\\02 - Template Engine EJS\\nodejs-shop\\apps\\controllers\\admin\\index.js"
+"File8"="F:\\Giáo Tr?nh\\NodeJS 2019\\Express\\02 - Template Engine EJS\\nodejs-shop\\app.js"
+"File9"="F:\\Giáo Tr?nh\\NodeJS 2019\\Express\\02 - Template Engine EJS\\nodejs-shop\\routes\\web.js"
+"File10"="C:\\Users\\MrTuan\\Desktop\\bootstrap-k166\\html02.html"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Remote Download]
+"RemoteDownloadAllow"="TRUE"
+"RemoteDownloadCacheSize"="1000"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Ruler Defaults]
+"Visible"="FALSE"
+"Units"="PIXELS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Selection Inspector Defaults]
+"CSS Rule Tracker Column Width"=dword:0000008c
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Settings]
+"HeadContentVisible"="FALSE"
+"TextViewVisible"="TRUE"
+"CodeViewPrimary"="FALSE"
+"WysiwygViewVisible"="FALSE"
+"WysiwygPrimary"="FALSE"
+"SplitViewSize"="50.000000%"
+"TextViewActive"="TRUE"
+"SplitViewOrientation"="vertical"
+"LayoutMode"="FALSE"
+"LastDirectory"="C:\\Users\\MrTuan\\Desktop\\"
+"ShowTableHeaders"="TRUE"
+"initialFileTypeDlg"="TRUE"
+"LastPreferencesPage"=dword:0000501a
+"ManifestFileSearch-94FE293A"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Site OnIdle]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Site Preferences]
+"Put Dependents"=dword:00000000
+"Get Dependents"=dword:00000000
+"Site Bar Mode"=dword:00000003
+"Show Dependent File Dialog On Get/Check Out"="TRUE"
+"Show Dependent File Dialog On Put/Check In"="TRUE"
+"Use Disconnect Timer"="TRUE"
+"Local View on Left"="FALSE"
+"Primary View is Local"="TRUE"
+"Repository View is shown"="FALSE"
+"Disconnect Time"=dword:0000001e
+"Firewall Host"=""
+"Firewall Port"=dword:00000015
+"Save Before Put"="FALSE"
+"Auto Dismiss Dialogs During FTP Transfers"="TRUE"
+"Auto Dismiss Time"=dword:0000001e
+"Previous Site Location"=""
+"FTP Timeout"=dword:0000001e
+"Encrypt Passwords Using Crypt32 and Keychain APIs"="TRUE"
+"CURL_MULTI_FILES_LIMIT"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Site Selection]
+"Last Site Selected"="Desktop"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\SiteFrame]
+"MDI Splitter Location"=dword:00000000
+"MDI Map Splitter Location"=dword:00000000
+"hiddenFilesShowing"="FALSE"
+"Remote Name Width"=dword:000000b4
+"Remote Size Width"=dword:00000028
+"Remote Date Width"=dword:00000066
+"Remote Type Width"=dword:0000003c
+"Remote Owner Width"=dword:ffffffff
+"Remote Sort Column"=dword:00000000
+"Remote Reverse Sort"="FALSE"
+"Local Name Width"=dword:00000050
+"Local Size Width"=dword:00000028
+"Local Date Width"=dword:00000066
+"Local Type Width"=dword:0000003c
+"Local Locked Width"=dword:ffffffff
+"Local Sort Column"=dword:00000000
+"Local Reverse Sort"="FALSE"
+"Tool Tips"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Source Format]
+"Indent Enabled"="TRUE"
+"Use Tabs"="FALSE"
+"Indent Size"=dword:00000002
+"Tab Size"=dword:00000004
+"Line Break Type"=dword:00000d0a
+"Ignore In Cell"="TRUE"
+"Write HTML5 in XHTML"="FALSE"
+"Tags Upper Case"="FALSE"
+"Force Tag Case"="FALSE"
+"Attrs Upper Case"="FALSE"
+"Force Attr Case"="FALSE"
+"CSS Indent Enabled"="TRUE"
+"CSS Use Tabs"="TRUE"
+"CSS Indent Size"=dword:00000001
+"CSS Props On New Line"="TRUE"
+"CSS Single Prop On One Line"="FALSE"
+"CSS Open Brace On New Line"="FALSE"
+"CSS Selectors On New Line"="FALSE"
+"CSS Empty Line Between Styles"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Spelling Preferences]
+"LanguageCode"="en_US"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\SPRY]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Style Sheet Preferences]
+"Selection Mode Top Pane Height"=dword:00000078
+"Document Mode Top Pane Height"=dword:00000078
+"Selection Mode Cascade Pane Height"=dword:00000032
+"Selection Mode Description Pane Height"=dword:0000001c
+"Current CSS Panel Selection Mode"="Selection"
+"Cascade Mode"="Cascade"
+"Summary Pane Column Width"=dword:00000064
+"CSS Prop Column Width"=dword:00000064
+"CSS Property Grid List Mode"="Set only"
+"Expanded CSS Prop Categories"=dword:00000001
+"Expanded CSS Prop Category 0"="Font"
+"Open Window When Editing External"="TRUE"
+"Use Border And Border-Width Shorthand"="FALSE"
+"Use Font Shorthand"="FALSE"
+"Use List-Style Shorthand"="FALSE"
+"Use Margin And Padding Shorthand"="FALSE"
+"Use Background Shorthand"="FALSE"
+"Use AnT Shorthand"="TRUE"
+"Preserve Shorthand When Editing"="FALSE"
+"Editing Method on Double-click"="Dialog"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Tag Colors]
+"Background Color"="#FFF"
+"Background Color - Read Only Files"="#EEE"
+"Background Color - Live Code"="#FF7"
+"Background Color - Live Code Inserted Text"="#FCF"
+"Background Color - Live Code Modified Text"="#FCF"
+"Hidden Character"="#999"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Temp File List]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\UltraDev Features]
+"Dynamic Text Format"=""
+"Enable Page Caching"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Unicode Preferences]
+"Write Unicode Signature for UTF-8 Files"="FALSE"
+"Write Unicode Signature for UTF-16 Files"="TRUE"
+"Unicode Normalization Form"="C"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Validator Settings]
+"Validate On Open"="FALSE"
+"Display Errors"="TRUE"
+"Display Warnings"="TRUE"
+"Default Doc Type"=dword:00000002
+"W3C Service URL"="http://validator.w3.org/check"
+"Total DocTypes"=dword:00000019
+"Show Warning Dialog"="TRUE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes]
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US]
+"Count"=dword:00000009
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size0]
+"Width"=dword:000000f0
+"Height"=dword:00000140
+"Description"="Feature Phone"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size1]
+"Width"=dword:00000140
+"Height"=dword:000001e0
+"Description"="Smart Phone"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size2]
+"Width"=dword:000001e0
+"Height"=dword:00000320
+"Description"="Smart Phone"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size3]
+"Width"=dword:00000250
+"Height"=dword:00000000
+"Description"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size4]
+"Width"=dword:00000300
+"Height"=dword:00000400
+"Description"="Tablet"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size5]
+"Width"=dword:000003e8
+"Height"=dword:0000026c
+"Description"="(1024 x 768, Maximized)"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size6]
+"Width"=dword:000004ec
+"Height"=dword:0000036b
+"Description"="(1280 x 1024, Maximized)"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size7]
+"Width"=dword:0000058c
+"Height"=dword:000002ee
+"Description"="(1440 x 900, Maximized)"
+
+[HKEY_CURRENT_USER\Software\Adobe\Dreamweaver CS6\Window Sizes\en_US\-Size8]
+"Width"=dword:0000062c
+"Height"=dword:0000041a
+"Description"="(1600 x 1200, Maximized)"
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="2118F5F1EB30773613959C45A044D8"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver\FileList\2019-06-11T01:40:20.64813Z]
+@="C:\\Users\\MrTuan\\Desktop\\bootstrap-k166\\html02.html"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver\FileList\2019-06-18T14:32:53.661109Z]
+@="C:\\Users\\MrTuan\\Desktop\\bootstrap-project-K167\\css\\style.css"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver\FileList\2019-06-18T14:40:50.104116Z]
+@="C:\\Users\\MrTuan\\Desktop\\bootstrap-project-K167\\index.html"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver\FileList\2019-06-20T04:25:41.23196Z]
+@="C:\\Users\\MrTuan\\Desktop\\bootstrap-project-K166\\css\\style.css"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\dreamweaver\FileList\2019-06-20T04:27:05.2197Z]
+@="C:\\Users\\MrTuan\\Desktop\\bootstrap-project-K166\\index.html"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:48:10.81611Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\nha.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:49:32.44312Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\cong2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:50:41.95813Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\cay1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:51:48.17214Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\cay2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:54:30.82015Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\may.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:56:10.52016Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\ma.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:56:50.95017Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\3988730-mario-wallpaper.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:58:01.15818Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\vit-left.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T04:58:59.72219Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\gach2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:00:46.53020Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\hop.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:02:10.39521Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\mario-right.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:04:09.9523Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\nam.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:06:01.78424Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\3988774-mario-wallpaper.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:06:13.14225Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\Pause screen.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:06:27.83126Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\tien.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-27T05:08:52.89227Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\quai-vat-left.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-03-28T11:26:07.5700Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cocos Free\\demo.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-08T09:17:45.980Z]
+@="C:\\Users\\MrTuan\\Downloads\\a15b9a9ec535276b7e24.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-08T09:28:36.6151Z]
+@="C:\\Users\\MrTuan\\Desktop\\tag-line-1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-09T08:31:34.7211Z]
+@="C:\\Users\\MrTuan\\Desktop\\VDP_7142.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-10T02:03:38.2940Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-laptop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-10T02:03:49.3951Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-smart-phone.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-10T02:03:50.2982Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-tablet.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-10T12:16:35.8870Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-laptop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-10T12:16:37.9981Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-smart-phone.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-10T12:16:38.9052Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-tablet.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:06:39.4470Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\Thor-Infinity-War-Chris-Hemsworth-1200x600.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:11:06.2551Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\logo-footer.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:15:30.3942Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\4f8118d7-9e3c-478a-a376-e556056dc189-dyatylhxkambu_6.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:20:03.5463Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\okoye.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:25:46.9644Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:30:59.7835Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\hulk-age-of-ultron-civil-war.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:37:13.1446Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\1555945857-Thanos_new.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:39:33.3757Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\photo-1-1542082178694377676553.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T04:42:46.7178Z]
+@="C:\\Users\\MrTuan\\Desktop\\Avenger\\2_2864541.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-04-24T07:44:56.3519Z]
+@="C:\\Users\\MrTuan\\Desktop\\avenger.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-14T02:03:59.8770Z]
+@="C:\\Users\\MrTuan\\Desktop\\stt_live_stream_img.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-14T02:07:21.3442Z]
+@="C:\\Users\\MrTuan\\Desktop\\emoticon-like-button-facebook-smiley-emoji-facebook.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-14T02:09:31.1463Z]
+@="C:\\Users\\MrTuan\\Desktop\\facebook-reactions-png-images-14.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-14T02:09:31.5604Z]
+@="C:\\Users\\MrTuan\\Desktop\\kissclipart-facebook-emoticons-2016-clipart-like-button-emotic-620d74a21fda82d0.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-16T04:36:07.4480Z]
+@="C:\\Users\\MrTuan\\Desktop\\14097eb6f07615284c67.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-20T10:55:36.7200Z]
+@="D:\\Thý Vi?n ?nh\\?nh Khóa H?c FREE 2019\\Featured_Ads.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-20T11:02:13.1021Z]
+@="D:\\Thý Vi?n ?nh\\?nh Khóa H?c FREE 2019\\C#_Free_2019.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-27T02:58:46.7190Z]
+@="C:\\Users\\MrTuan\\Desktop\\Banner_Vietpro_Fanpage.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-28T12:11:34.7500Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-laptop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-28T12:11:41.6481Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-smart-phone.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-28T12:11:47.4142Z]
+@="F:\\Giáo Tr?nh\\PHP Cõ B?n & Nâng cao 2019\\Bootstrap\\bootstrap-4.1.3-dist\\home-tablet.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-31T07:34:21.5180Z]
+@="C:\\Users\\MrTuan\\Desktop\\Ba-Tan-Vlog.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-31T07:38:30.3461Z]
+@="C:\\Users\\MrTuan\\Desktop\\89-891532_android-logo-png-android-logo-hd-png-clipart.png.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-31T07:39:14.9162Z]
+@="C:\\Users\\MrTuan\\Desktop\\android-logo-png-transparent.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-31T07:53:32.4463Z]
+@="C:\\Users\\MrTuan\\Desktop\\Android.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-31T07:53:32.6564Z]
+@="C:\\Users\\MrTuan\\Desktop\\android-app-development.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-05-31T08:11:33.2035Z]
+@="C:\\Users\\MrTuan\\Desktop\\Laravel-512.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-01T01:57:26.6350Z]
+@="C:\\Users\\MrTuan\\Desktop\\WebMobileK164\\home-laptop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-01T01:57:30.9731Z]
+@="C:\\Users\\MrTuan\\Desktop\\WebMobileK164\\home-smart-phone.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-01T01:57:36.4042Z]
+@="C:\\Users\\MrTuan\\Desktop\\WebMobileK164\\home-tablet.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-01T14:54:36.4280Z]
+@="C:\\Users\\MrTuan\\Desktop\\Bootstrap_Free_2019\\images\\banner.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T07:54:47.2641Z]
+@="C:\\Users\\MrTuan\\Desktop\\photo-1-15591915639702137963141.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T08:01:42.112Z]
+@="C:\\Users\\MrTuan\\Desktop\\4-ali-hoang-duong-noi-ve-view-ba-tan-vlog-co-view-rat-cao-nhung-ma-15592777971511706099095.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T08:20:23.6643Z]
+@="C:\\Users\\MrTuan\\Desktop\\LaravelLogo.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T08:33:50.7624Z]
+@="C:\\Users\\MrTuan\\Desktop\\ajax-comment-system-for-laravel-66079.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T10:12:59.9480Z]
+@="C:\\Users\\MrTuan\\Desktop\\hlv-park-hang-seo-ong-la-ai-l8-1517008074-735-width1704height957.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T10:30:49.8191Z]
+@="C:\\Users\\MrTuan\\Desktop\\emaga-park.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T10:40:24.8692Z]
+@="C:\\Users\\MrTuan\\Desktop\\Laravel_Kingcup.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T10:41:50.753Z]
+@="C:\\Users\\MrTuan\\Desktop\\vietnam-squad-list-ahead-of-kings-cup-tuan-anh-comes-back1559114772.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T10:44:25.7874Z]
+@="C:\\Users\\MrTuan\\Desktop\\lich-thi-dau-cua-doi-tuyen-viet-nam-tai-kings-cup-2019.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T10:49:52.3515Z]
+@="C:\\Users\\MrTuan\\Desktop\\LOGO VP.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T15:08:52.7460Z]
+@="C:\\Users\\MrTuan\\Desktop\\Ba Tan\\Ba-Tan-Vlog.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T15:10:42.261Z]
+@="C:\\Users\\MrTuan\\Desktop\\6-15437641435381161162547.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T15:25:16.9652Z]
+@="C:\\Users\\MrTuan\\Desktop\\untitled-1-bb-baaacDNOM7.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-05T15:41:08.3203Z]
+@="C:\\Users\\MrTuan\\Desktop\\Ba-Tan-Anh-Duc.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-11T01:26:57.2270Z]
+@="C:\\Users\\MrTuan\\Desktop\\banner-img2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-11T01:26:57.6781Z]
+@="C:\\Users\\MrTuan\\Desktop\\Empower-Banners-optimized-5.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-14T03:49:42.1561Z]
+@="C:\\Users\\MrTuan\\Desktop\\Home.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-14T03:53:12.8193Z]
+@="C:\\Users\\MrTuan\\Desktop\\Cart.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-14T03:53:46.7644Z]
+@="C:\\Users\\MrTuan\\Desktop\\Product.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-06-21T02:39:41.490Z]
+@="C:\\Users\\MrTuan\\Desktop\\Bien_ngoaif.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-02T08:58:14.540Z]
+@="C:\\Users\\MrTuan\\Desktop\\hoc-vue-qua-du-an.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-02T09:06:31.4511Z]
+@="C:\\Users\\MrTuan\\Desktop\\VueJS.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-08T01:43:50.5620Z]
+@="C:\\Users\\MrTuan\\Desktop\\data\\home-laptop.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-08T01:43:59.7661Z]
+@="C:\\Users\\MrTuan\\Desktop\\data\\home-smart-phone.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-08T01:44:07.832Z]
+@="C:\\Users\\MrTuan\\Desktop\\data\\home-tablet.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-14T17:33:34.2250Z]
+@="C:\\Users\\MrTuan\\Desktop\\000-Basic-HTML-Codes.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-14T17:33:34.9021Z]
+@="C:\\Users\\MrTuan\\Desktop\\bootstrap_banner.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-14T17:33:35.2642Z]
+@="C:\\Users\\MrTuan\\Desktop\\introcss_thumbnail_1x1.png.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-14T17:33:35.8833Z]
+@="C:\\Users\\MrTuan\\Desktop\\javascript-banner.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-14T17:33:36.2544Z]
+@="C:\\Users\\MrTuan\\Desktop\\Laravel-big.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-07-14T17:33:36.7815Z]
+@="C:\\Users\\MrTuan\\Desktop\\php___mysql_wallpaper_by_milesandryprower_d9o6yat-fullview.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-21T14:08:10.7231Z]
+@="C:\\Users\\MrTuan\\Desktop\\kisspng-game-react-native-javascript-android-physics-5ac6d5f4e4d2c0.2594321615229803409373.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-24T03:42:09.2930Z]
+@="C:\\Users\\MrTuan\\Desktop\\Untitled-1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-24T03:48:44.8811Z]
+@="C:\\Users\\MrTuan\\Desktop\\ce6db24b7b459c1bc554.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-24T03:49:13.6712Z]
+@="C:\\Users\\MrTuan\\Desktop\\68717648_1640493279417986_5164747565563904000_n.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-24T04:11:22.8864Z]
+@="C:\\Users\\MrTuan\\Desktop\\1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-24T04:15:21.3665Z]
+@="C:\\Users\\MrTuan\\Desktop\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-08-24T04:15:21.8096Z]
+@="C:\\Users\\MrTuan\\Desktop\\2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-09-24T03:33:27.5430Z]
+@="C:\\Users\\MrTuan\\Downloads\\app-mobile-230919\\1 - dang nhap.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-09-24T03:33:34.1681Z]
+@="C:\\Users\\MrTuan\\Downloads\\app-mobile-230919\\2 - dang ky.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-09-24T03:33:36.3032Z]
+@="C:\\Users\\MrTuan\\Downloads\\app-mobile-230919\\3 - trending.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-09-24T03:33:38.2313Z]
+@="C:\\Users\\MrTuan\\Downloads\\app-mobile-230919\\4 - my pro file.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-09-24T03:33:39.6274Z]
+@="C:\\Users\\MrTuan\\Downloads\\app-mobile-230919\\5 - up load avatar.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[57,30,1728,927]"
+"oldPaletteFontTypeKey CS6"=dword:00000001
+"MemoryUsage64"=dword:0000003c
+"ScratchWarningSeen"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\MrTuan\\Desktop\\"

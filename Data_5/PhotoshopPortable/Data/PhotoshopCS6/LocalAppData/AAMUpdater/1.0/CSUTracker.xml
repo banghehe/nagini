@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Updates CSUVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CSUTracker.xsd">
+<UpdateRef Combo="1" ReFetch="0" RefID="AdobeDreamweaverCS6-12/12.0.3" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+<UpdateID>12.0.3</UpdateID>
+<OwningID>AdobeDreamweaverCS6LangPacken_US-12</OwningID>
+<LEID>Dreamweaver-CS6-Win-GM</LEID>
+</Recommendation>
+<Recommendation>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+<LEID>Dreamweaver-CS6-Win-GM</LEID>
+<UpdateID>12.0.3</UpdateID>
+<OwningID>AdobeDreamweaverCS6-12</OwningID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>2</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Dreamweaver CS6 (to version 12.0.3) to address HiDPI-compliance and resolve critical bugs.</en_US>
+<cs_CZ>Aktualizace Dreamweaver CS6 (až po verzi 12.0.3) zaměřená na soulad se standardem HiDPI a řešení závažných chyb.</cs_CZ>
+<de_DE>Dreamweaver CS6 (bis Version 12.0.3) zur HiDPI-Kompatibilität und zur Lösung kritischer Bugs.</de_DE>
+<es_ES>Dreamweaver CS6 (a la versión 12.0.3) para resolver la compatibilidad con HiDPI y problemas críticos.</es_ES>
+<es_MX>Dreamweaver CS6 (a la versión 12.0.3) para resolver la compatibilidad con HiDPI y problemas críticos.</es_MX>
+<fr_FR>Dreamweaver CS6 (jusqu&apos;à la version 12.0.3) pour assurer la conformité HiDPI et corriger des bogues critiques.</fr_FR>
+<fr_MA>Dreamweaver CS6 (jusqu&apos;à la version 12.0.3) pour assurer la conformité HiDPI et corriger des bogues critiques.</fr_MA>
+<fr_CA>Dreamweaver CS6 (jusqu&apos;à la version 12.0.3) pour assurer la conformité HiDPI et corriger des bogues critiques.</fr_CA>
+<it_IT>Dreamweaver CS6 (fino alla versione 12.0.3) implementa la conformità HiDPI e risolve alcuni bug critici.</it_IT>
+<ja_JP>（バージョン 12.0.3 までの）Dreamweaver CS6 は、HiDPI 準拠に対応し、重大なバグを解決します。</ja_JP>
+<ko_KR>Dreamweaver CS6(12.0.3 버전까지)의 HiDPI-호환성을 다루고 심각한 버그를 해결합니다.</ko_KR>
+<nl_NL>Dreamweaver CS6-update (naar versie 12.0.3) verhelpt HiDPI-compatibiliteitsproblemen en kritieke fouten.</nl_NL>
+<pl_PL>Aktualizacja programu Dreamweaver CS6 do wersji 12.0.3 rozwiązuje problemy z obsługą technologii HiDPI oraz usuwa błędy krytyczne.</pl_PL>
+<pt_BR>Dreamweaver CS6 (para a versão 12.0.3) para abordar conformidade com HiDPI e resolver bugs críticos.</pt_BR>
+<ru_RU>Dreamweaver CS6 (до версии 12.0.3) для обеспечения поддержки режима HiDPI и устранения критических неполадок.</ru_RU>
+<sv_SE>Dreamweaver CS6 (till version 12.0.3) för att hantera HiDPI-kompatibilitet och åtgärda viktiga fel.</sv_SE>
+<tr_TR>Dreamweaver CS6 12.0.3 güncellemesinde HiDPI uyumluluğu ele alınır ve önemli hatalar çözülür.</tr_TR>
+<zh_CN>Dreamweaver CS6（至 12.0.3 版）解决了 HiDPI 兼容性问题和严重错误。</zh_CN>
+<zh_TW>Dreamweaver CS6 (至版本 12.0.3) 能夠解決 HiDPI 相容性問題與排除嚴重錯誤。</zh_TW>
+</DisplayName>
+<Description default="en_US">
+<en_US>The latest update to Adobe Dreamweaver CS6 includes optimizations for HiDPI displays, improves performance in Code View, Live View rendering and addresses FTP transfer permission issues. This update to Adobe Dreamweaver ensures continued compatibility with the Adobe PhoneGap Build service.</en_US>
+<cs_CZ>Nejnovější aktualizace k softwaru Adobe Dreamweaver CS6 nabízí optimalizaci displejů HiDPI, zajišťuje kvalitnější vykreslování ve Zobrazení kódu a Živém zobrazení a zaměřuje se na potíže s oprávněním pro přenos prostřednictvím protokolu FTP. Tato aktualizace softwaru Adobe Dreamweaver zajišťuje trvající kompatibilitu se službou Adobe PhoneGap Build.</cs_CZ>
+<de_DE>Die neueste Aktualisierung für Adobe Dreamweaver CS6 umfasst Optimierungen für die HiDPI-Anzeige, verbessert die Performance in der Codeansicht und der Live View-Wiedergabe und behebt Probleme mit FTP-Übertragungsrechten. Diese Adobe Dreamweaver-Aktualisierung stellt sicher, dass die Kompatibilität mit dem Adobe PhoneGap Build-Service weiterhin gewährleistet ist.</de_DE>
+<es_ES>La actualización más reciente para Adobe Dreamweaver CS6 incluye optimizaciones para pantallas HiDPI, mejora el rendimiento en la Vista de código y la representación en la Vista en vivo y resuelve problemas de permisos para transferencias FTP. Esta actualización de Adobe Dreamweaver garantiza que se mantenga la compatibilidad con el servicio Adobe PhoneGap Build.</es_ES>
+<es_MX>La actualización más reciente para Adobe Dreamweaver CS6 incluye optimizaciones para pantallas HiDPI, mejora el rendimiento en la Vista de código y la representación en la Vista en vivo y resuelve problemas de permisos para transferencias FTP. Esta actualización de Adobe Dreamweaver garantiza que se mantenga la compatibilidad con el servicio Adobe PhoneGap Build.</es_MX>
+<fr_FR>La plus récente mise à niveau d&apos;Adobe Dreamweaver CS6 comporte des optimisations pour les écrans HiDPI, améliore les performances en mode Code et le rendu en mode En direct, et corrige les problèmes d&apos;autorisations de transfert FTP. Cette mise à  niveau d&apos;Adobe Dreamweaver garantit la compatibilité avec le service Adobe PhoneGap Build.</fr_FR>
+<fr_MA>La plus récente mise à niveau d&apos;Adobe Dreamweaver CS6 comporte des optimisations pour les écrans HiDPI, améliore les performances en mode Code et le rendu en mode En direct, et corrige les problèmes d&apos;autorisations de transfert FTP. Cette mise à  niveau d&apos;Adobe Dreamweaver garantit la compatibilité avec le service Adobe PhoneGap Build.</fr_MA>
+<fr_CA>La plus récente mise à niveau d&apos;Adobe Dreamweaver CS6 comporte des optimisations pour les écrans HiDPI, améliore les performances en mode Code et le rendu en mode En direct, et corrige les problèmes d&apos;autorisations de transfert FTP. Cette mise à  niveau d&apos;Adobe Dreamweaver garantit la compatibilité avec le service Adobe PhoneGap Build.</fr_CA>
+<it_IT>L&apos;ultimo aggiornamento di Adobe Dreamweaver CS6 include ottimizzazioni per i display HiDPI, migliora le prestazioni nella vista Codice, il rendering nella vista Dal vivo e risolve alcuni problemi relativi alle autorizzazioni per il trasferimento FTP. Questo aggiornamento di Adobe Dreamweaver garantisce la compatibilità ininterrotta con il servizio Adobe PhoneGap Build.</it_IT>
+<ja_JP>Adobe Dreamweaver CS6 の最新アップデートは、HiDPI 表示を最適化し、コードビューやライブビューのレンダリングでのパフォーマンスを向上させ、FTP 転送のアクセス許可の問題に対処します。Adobe Dreamweaver のこのアップデートにより、Adobe PhoneGap Build サービスとの継続した互換性が保証されます。</ja_JP>
+<ko_KR>Adobe Dreamweaver CS6의 최신 업데이트는 HiDPI 디스플레이를 위한 최적화를 포함하고 있으며, 코드 뷰, 라이브 뷰 렌더링 기능을 개선하고, FTP 전송 권한 문제를 다루었습니다. 이 Adobe Dreamweaver 업데이트를 통해 Adobe PhoneGap Build 서비스로 지속적인 호환성을 보장합니다.</ko_KR>
+<nl_NL>De nieuwste update voor Adobe Dreamweaver CS6 biedt optimalisaties voor HiDPI-schermen, verbeterde prestaties voor Codeweergave en Live View-rendering en verhelpt machtigingsproblemen voor FTP-overdracht. Deze update zorgt ervoor dat Adobe Dreamweaver compatibel blijft met de service Adobe PhoneGap Build.</nl_NL>
+<pl_PL>Najnowsza aktualizacja programu Adobe Dreamweaver CS6 obejmuje optymalizację działania wyświetlaczy w technologii HiDPI, zwiększa wydajność pracy w widoku Kod, usprawnia renderowanie w widoku aktywnym i rozwiązuje problemy z uprawnieniami do przesyłania plików przez serwer FTP. Zapewnia również nieprzerwaną zgodność z usługą Adobe PhoneGap Build.</pl_PL>
+<pt_BR>A atualização mais recente para a Adobe Dreamweaver CS6 inclui otimizações das exibições HiDPI, aumento de desempenho na renderização do Visualizador de código e da Visualização dinâmica e corrige problemas de permissão nas transferências do FTP.</pt_BR>
+<ru_RU>Последнее обновление Adobe Dreamweaver CS6 включает оптимизацию для отображения в разрешении HiDPI, улучшает производительность в представлении кода, обработку в режиме интерактивного просмотра и позволяет устранить проблемы с разрешениями на передачу данных на FTP. Это обновление Adobe Dreamweaver гарантирует постоянную совместимость со службой Adobe PhoneGap Build.</ru_RU>
+<sv_SE>Den senaste uppdateringen av Adobe Dreamweaver CS6 innehåller optimeringar för HiDPI-skärmar, Live-vy-rendering och förbättrad prestanda i kodvyn samt hanterar behörighetsproblem vid FTP-överföring. Den här uppdateringen av Adobe Dreamweaver säkerställer fortsatt kompatibilitet med Adobe PhoneGap Build-tjänsten.</sv_SE>
+<tr_TR>Adobe Dreamweaver CS6&apos;ya yönelik en son güncelleme HiDPI ekranlarına yönelik en iyileştirmeler içerir, Kod Görünümü ile Canlı Görünüm&apos;de görüntü oluşturma performansını geliştirir ve FTP aktarım izniyle ilgili sorunları ele alır. Bu Adobe Dreamweaver güncellemesi, Adobe PhoneGap Build hizmetiyle uyumluluğun devam etmesini sağlar.</tr_TR>
+<zh_CN>Adobe Dreamweaver CS6 的最新更新包括优化 HiDPI 显示、提高代码视图和实时视图中的呈现性能并解决 FTP 传输权限问题。该项 Adobe Dreamweaver 更新确保能够继续兼容 Adobe PhoneGap Build 服务。</zh_CN>
+<zh_TW>Adobe Dreamweaver CS6 最新更新包括 HiDPI 顯示最佳化，改善程式碼檢視效能、即時檢視呈現及解決 FTP 傳送權限問題。此項 Adobe Dreamweaver 更新確保與 Adobe PhoneGap Build 服務持續的相容性。</zh_TW>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>147973066</Size>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="1" ReFetch="0" RefID="AdobeDreamweaverCS6-12/12.2.0" Viewed="0" WaitingForProductEvent="1">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+<UpdateID>12.2.0</UpdateID>
+<OwningID>AdobeDreamweaverCS6LangPacken_US-12</OwningID>
+<LEID>Dreamweaver-CS6-Win-GM</LEID>
+</Recommendation>
+<Recommendation>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+<LEID>Dreamweaver-CS6-Win-GM</LEID>
+<UpdateID>12.2.0</UpdateID>
+<OwningID>AdobeDreamweaverCS6-12</OwningID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>1</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Dreamweaver CS6 Creative Cloud release – Feb. 2013</en_US>
+<cs_CZ>Vydání sady Dreamweaver CS6 Creative Cloud – únor 2013</cs_CZ>
+<de_DE>Dreamweaver CS6 Creative Cloud-Aktualisierung – Feb. 2013</de_DE>
+<es_ES>Publicación de Dreamweaver CS6 Creative Cloud – Febrero de 2013</es_ES>
+<es_MX>Publicación de Dreamweaver CS6 Creative Cloud – Febrero de 2013</es_MX>
+<fr_FR>Dreamweaver CS6 version Creative Cloud - Février 2013</fr_FR>
+<fr_MA>Dreamweaver CS6 version Creative Cloud - Février 2013</fr_MA>
+<fr_CA>Dreamweaver CS6 version Creative Cloud - Février 2013</fr_CA>
+<it_IT>Dreamweaver CS6 versione Creative Cloud – Febbraio 2013</it_IT>
+<ja_JP>Dreamweaver CS6 Creative Cloud リリース – 2013 年 2 月</ja_JP>
+<ko_KR>Dreamweaver CS6 Creative Cloud 릴리스 - 2013년 2월</ko_KR>
+<nl_NL>Release van Dreamweaver CS6 Creative Cloud – Feb. 2013</nl_NL>
+<pl_PL>Aktualizacja programu Dreamweaver CS6 Creative Cloud — luty 2013</pl_PL>
+<pt_BR>Versão da Dreamweaver CS6 Creative Cloud – fevereiro de 2013</pt_BR>
+<ru_RU>Выпуск Dreamweaver CS6 Creative Cloud — февраль 2013</ru_RU>
+<sv_SE>Dreamweaver CS6 Creative Cloud – februari 2013</sv_SE>
+<tr_TR>Dreamweaver CS6 Creative Cloud sürümü – Şubat 2013</tr_TR>
+<zh_CN>Dreamweaver CS6 Creative Cloud 发布 — 2013 年 2 月</zh_CN>
+<zh_TW>Dreamweaver CS6 Creative Cloud 發行 – 2013 年 2 月</zh_TW>
+</DisplayName>
+<Description default="en_US">
+<en_US>The latest Dreamweaver update integrates Adobe Edge Web Fonts and features an improved Font Management workflow. Also, significant improvements to the Fluid Grid Layouts feature make it easier to create professional-quality responsive web pages. The update includes added support for HTML5 Form elements. Finally, the update restores Expanded Table View options (removed in the last CS6 Creative Cloud release on Sept 24th) and includes critical bug fixes.</en_US>
+<cs_CZ>Nejnovější aktualizace aplikace Dreamweaver integruje písma Adobe Edge Web Fonts a přináší vylepšený pracovní postup pro správu písem. Významná vylepšení funkce Rozvržení plovoucích mřížek usnadňuje vytváření rychlých webových stránek profesionální kvality. Tato aktualizace zahrnuje přidanou podporu elementů formulářů HTML5. Aktualizace také obnovuje možnosti zobrazení režimu rozšířených tabulek (odebrané ve verzi CS6 Creative Cloud z 24. září) a obsahuje opravy závažných chyb.</cs_CZ>
+<de_DE>Die neueste Dreamweaver-Aktualisierung integriert Adobe Edge-Webschriften und führt einen verbesserten Arbeitsablauf für die Schriftenverwaltung ein. Auch signifikante Verbesserungen der fließenden Rasterlayouts erleichtern die Erstellung ansprechender Webseiten in professioneller Qualität. Die Aktualisierung umfasst  die zusätzliche Unterstützung von HTML5-Formularelementen. Schließlich stellt diese Aktualisierung die Optionen des erweiterten Tabellenmodus wieder her (die in der letzten CS6 Creative Cloud-Aktualisierung am 24. Sept. entfernt worden sind) und enthält einige wichtige Bugkorrekturen.</de_DE>
+<es_ES>La actualización más reciente de Dreamweaver integra Fuentes Web de Adobe Edge y cuenta con un flujo de trabajo mejorado para administración de fuentes. Asimismo, las mejoras significativas realizadas en la función Diseños de cuadrículas fluidas facilitan la creación de páginas Web funcionales de calidad profesional. La actualización incluye compatibilidad adicional para elementos de formulario HTML5. Por último, la actualización restaura las opciones de vista expandida de tabla (eliminadas en la última versión de CS6 Creative Cloud, publicada el 24 de septiembre) e incluye soluciones a errores críticos.</es_ES>
+<es_MX>La actualización más reciente de Dreamweaver integra Fuentes Web de Adobe Edge y cuenta con un flujo de trabajo mejorado para administración de fuentes. Asimismo, las mejoras significativas realizadas en la función Diseños de cuadrículas fluidas facilitan la creación de páginas Web funcionales de calidad profesional. La actualización incluye compatibilidad adicional para elementos de formulario HTML5. Por último, la actualización restaura las opciones de vista expandida de tabla (eliminadas en la última versión de CS6 Creative Cloud, publicada el 24 de septiembre) e incluye soluciones a errores críticos.</es_MX>
+<fr_FR>La plus récente mise à jour de Dreamweaver comprend les polices Web Adobe Edge et un flux de gestion des polices amélioré. En outre, des améliorations significatives de la fonctionnalité Mises en forme de grille fluide facilitent la création de pages Web réactives de qualité professionnelle. La mise à niveau ajoute une prise en charge des éléments de formulaire HTML5. Enfin, la mise à niveau rétablit les options de mode Tableaux développés (supprimées de la dernière version de CS6 Creative Cloud publiée le 24 septembre) et corrige des bogues critiques.</fr_FR>
+<fr_MA>La plus récente mise à jour de Dreamweaver comprend les polices Web Adobe Edge et un flux de gestion des polices amélioré. En outre, des améliorations significatives de la fonctionnalité Mises en forme de grille fluide facilitent la création de pages Web réactives de qualité professionnelle. La mise à niveau ajoute une prise en charge des éléments de formulaire HTML5. Enfin, la mise à niveau rétablit les options de mode Tableaux développés (supprimées de la dernière version de CS6 Creative Cloud publiée le 24 septembre) et corrige des bogues critiques.</fr_MA>
+<fr_CA>La plus récente mise à jour de Dreamweaver comprend les polices Web Adobe Edge et un flux de gestion des polices amélioré. En outre, des améliorations significatives de la fonctionnalité Mises en forme de grille fluide facilitent la création de pages Web réactives de qualité professionnelle. La mise à niveau ajoute une prise en charge des éléments de formulaire HTML5. Enfin, la mise à niveau rétablit les options de mode Tableaux développés (supprimées de la dernière version de CS6 Creative Cloud publiée le 24 septembre) et corrige des bogues critiques.</fr_CA>
+<it_IT>L&apos;ultimo aggiornamento di Dreamweaver include i caratteri Web Adobe Edge e presenta un flusso di lavoro migliorato per la gestione dei caratteri. Inoltre, contiene importanti miglioramenti della funzione Layout a griglia fluida che rendono più facile la creazione di pagine Web interattive di qualità professionale. L&apos;aggiornamento include un supporto più esteso degli elementi modulo HTML5. Infine, l&apos;aggiornamento ripristina le opzioni di visualizzazione della modalità Tabelle espanse (rimosse nell&apos;ultima versione di CS6 Creative Cloud del 24 settembre) e include le correzioni di alcuni bug critici.</it_IT>
+<ja_JP>最新の Dreamweaver アップデートでは、Adobe Edge Web Fonts を取り入れて、フォント管理ワークフローを改善することができます。 また、可変グリッドレイアウト機能が大幅に改善されているため、プロ並みのレスポンシブな Web ページを簡単に作成できるようになります。 アップデートには、HTML5 フォームエレメントのサポート強化が含まれています。また最終的に、（9 月 24 日の最後の CS6 Creative Cloud リリースで削除された）Expanded Table View オプションが復元されており、重大なバグ修正も含まれています。</ja_JP>
+<ko_KR>최신 Dreamweaver 업데이트에 Adobe Edge Web Fonts와 개선된 글꼴 관리 워크플로 기능이 통합되었습니다. 또한, 유동 격자 레이아웃 기능에 큰 개선을 통해 전문가급의 응답력 있는 웹페이지를 쉽게 만들 수 있게 되었습니다. 이번 업데이트에는 HTML5 Form 요소에 대한 추가적인 지원이 포함되어 있습니다. 마지막으로 이번 업데이트는 확장된 표 보기 옵션(9월 24일의 최근 CS6 Creative Cloud 릴리스에서 삭제됨)을 복원하였으며, 중대한 버그도 수정하였습니다.</ko_KR>
+<nl_NL>De laatste Dreamweaver-update integreert Adobe Edge Web Fonts en biedt een verbeterde workflow voor Lettertypenbeheer. Daarnaast is het dankzij aanzienlijke verbeteringen aan de functie Dynamische rasterlay-outs eenvoudiger om responsieve webpagina&apos;s van professionele kwaliteit te maken. De update bevat toegevoegde ondersteuning voor HTML5-formulierelementen. Tot slot herstelt de update de opties voor Uitgebreide tabelweergave (die in de vorige release van CS6 Creative Cloud op 24 september was verwijderd) en beschikt de nieuwe release over essentiële oplossingen voor bepaalde problemen.</nl_NL>
+<pl_PL>Najnowsza aktualizacja programu Dreamweaver umożliwia integrację czcionek Adobe Edge Web Fonts i obejmuje ulepszone zarządzanie czcionkami. Wprowadza również istotne usprawnienia działania płynnych układów siatek, co przekłada się na łatwiejsze tworzenie profesjonalnych, interaktywnych stron internetowych. Aktualizacja zapewnia także obsługę elementów formularzy HTML5 oraz przywraca opcje widoku rozszerzonego tabeli (usunięte w ostatniej wersji programu CS6 Creative Cloud udostępnionej 24 września) i usuwa błędy krytyczne.</pl_PL>
+<pt_BR>A atualização mais recente do Dreamweaver integra o Adobe Edge Web Fonts e fornece um fluxo de trabalho aprimorado do Font Management. Além disso, as melhorias significativas no recurso Layouts de grade fluídos facilitam a criação de páginas da Web receptivas e com qualidade profissional. A atualização inclui suporte adicional para elementos de formulário HTML 5. Por fim, a atualização restaura as opções de visualização em tabela expandida (removida na última versão da CS6 Creative Cloud em 24 de setembro) e inclui correções de bugs críticos.</pt_BR>
+<ru_RU>Последнее обновление Dreamweaver включает Adobe Edge Web Fonts и улучшенные функции управления шрифтами. Также значительно улучшены «резиновые» макеты, что позволяет с легкостью создавать адаптивные веб-страницы профессионального качества. Обновление включает добавленную поддержку для элементов форм HTML5. Наконец, в обновлении восстановлен режим просмотра развернутых таблиц (удаленный в последнем выпуске CS6 Creative Cloud от 24 сентября) и включены исправления критических неполадок.</ru_RU>
+<sv_SE>Den senaste Dreamweaver-uppdateringen integrerar Adobe Edge Web Fonts och ger en förbättrad teckensnittshantering. Den innehåller också förbättringar för funktionen Flytande stödrasterlayout som gör det enklare att skapa proffsiga webbsidor. Uppdateringen omfattar stöd för HTML5-formulärelement. Uppdateringen återställer också alternativen för utökad tabellvy (borttaget i senaste CS6 Creative Cloud från 24 september) och innehåller viktiga korrigeringar för att åtgärda buggar.</sv_SE>
+<tr_TR>En son Dreamweaver güncellemesinde, Adobe Edge Web Fonts tümleştirilir ve gelişmiş bir Font Yönetimi iş akışı özelliği bulunur. Ayrıca, Değişken Izgara Mizanpajları özelliğinde yapılan önemli geliştirmeler profesyonel kalitede dinamik web sayfaları oluşturmayı kolaylaştırır. Güncelleme, HTML5 Form öğeleri için eklenen desteği içerir. Son olarak, güncellemede Genişletilmiş Tablo Görünümü seçenekleri (24 Eylül&apos;de son CS6 Creative Cloud sürümünde kaldırılmıştır) geri yüklenmektedir ve önemli hata düzeltmeleri bulunmaktadır.</tr_TR>
+<zh_CN>最新的 Dreamweaver 更新集成了 Adobe Edge Web Fonts 并改善了字体管理工作流程。此外，还对“流体网格布局”功能进行了显著的改进，便于更轻松地创建专业品质的响应网页。更新包括增加了对 HTML5 表单元素的支持。最后一点，本次更新恢复了“扩展表格视图”选项（该选项于 9 月 24 日从上一次 CS6 Creative Cloud 发布中移除）并包括关键的缺陷修复。</zh_CN>
+<zh_TW>最新的 Dreamweaver 更新整合了 Adobe Edge Web Fonts，強調字體管理工作流程的改善。同時，流變格線版面功能的大幅改善讓它能輕鬆建立專業質感且回應快速的網頁。此更新包括對 HTML5 表單元素的新增支援。最後，此更新恢復了「展開表格模式」選項 (在上次 9 月 24 日的 CS6 Creative Cloud 發行中移除) 並包含嚴重錯誤修正。</zh_TW>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>153154218</Size>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="0" ReFetch="0" RefID="AdobeCSXSInfrastructureCS6-3/3.0.3" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeCSXSInfrastructureCS6-3</ChannelID>
+</Recommendation>
+<Recommendation>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+<LEID>Dreamweaver-CS6-Win-GM</LEID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Adobe CSXS InfrastructureCS6</en_US>
+</DisplayName>
+<Description default="en_US">
+<en_US>CSXS Infrastructure 3.0.3 update.</en_US>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobeCSXSInfrastructureCS6-3</ChannelID>
+<ChannelID>AdobeInDesignCS6-8.0</ChannelID>
+<ChannelID>AdobeInCopyCS6-8.0</ChannelID>
+<ChannelID>AdobeInDesignCS6Server-8.0</ChannelID>
+<ChannelID>AdobeDreamweaverCS6-12</ChannelID>
+<ChannelID>FlashPro12.0</ChannelID>
+<ChannelID>AdobePhotoshopCS6-13.0</ChannelID>
+<ChannelID>AdobePhotoshopCS6-13.0</ChannelID>
+<ChannelID>AdobePreludeCS6-1.0.0</ChannelID>
+<ChannelID>AdobePremiereProCS6-6.0.0</ChannelID>
+<ChannelID>AdobeFireworksCS6-12.0.0-mul</ChannelID>
+<ChannelID>AdobePreludeCS6-1.0.0-Trial</ChannelID>
+<ChannelID>AdobePremiereProCS6-6.0.0-Trial</ChannelID>
+<ChannelID>AdobeIllustrator16-mul</ChannelID>
+<ChannelID>AdobeIllustrator16-mul_x64</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>1188234</Size>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="0" ReFetch="0" RefID="AdobeExtensionManagerCS6-6.0/6.0.8" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeExtensionManagerCS6-6.0</ChannelID>
+<LEID>ExMan-CS6-Win-GM</LEID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<en_US>Extension Manager 6.0.8 Update</en_US>
+<cs_CZ>Aktualizace aplikace Extension Manager 6.0.8</cs_CZ>
+<da_DK>Extension Manager 6.0.8 - opdatering</da_DK>
+<de_DE>Extension Manager 6.0.8-Update</de_DE>
+<es_ES>Actualización de Extension Manager 6.0.8</es_ES>
+<fi_FI>Extension Manager 6.0.8 -päivitys</fi_FI>
+<fr_FR>Mise à jour d’Extension Manager 6.0.8</fr_FR>
+<hu_HU>Extension Manager 6.0.8 frissítés</hu_HU>
+<it_IT>Aggiornamento di Extension Manager 6.0.8</it_IT>
+<ja_JP>Extension Manager 6.0.8 アップデート</ja_JP>
+<ko_KR>Extension Manager 6.0.8 업데이트</ko_KR>
+<nb_NO>Extension Manager 6.0.8-oppdatering</nb_NO>
+<nl_NL>Update van Extension Manager 6.0.8</nl_NL>
+<pl_PL>Extension Manager 6.0.8 — aktualizacja</pl_PL>
+<pt_BR>Atualização do Extension Manager 6.0.8</pt_BR>
+<ru_RU>обновление Extension Manager 6.0.8</ru_RU>
+<sv_SE>Extension Manager 6.0.8-uppdatering</sv_SE>
+<tr_TR>Extension Manager 6.0.8 güncellemesi</tr_TR>
+<uk_UA>Оновлення Extension Manager 6.0.8</uk_UA>
+<zh_CN>Extension Manager 6.0.8 更新</zh_CN>
+<zh_TW>Extension Manager 6.0.8 更新</zh_TW>
+</DisplayName>
+<Description default="en_US">
+<en_US>This update fixes an issue that can occur when installing from the Adobe Exchange panel.</en_US>
+<cs_CZ>Součástí této aktualizace je oprava problému, ke kterému někdy docházelo při instalaci panelu Adobe Exchange.</cs_CZ>
+<da_DK>Denne opdatering retter en fejl, der kan forekomme under installation via Adobe Exchange-panelet.</da_DK>
+<de_DE>Mit diesem Update wird ein mögliches Problem bei der Installation über das Adobe Exchange-Bedienfeld korrigiert.</de_DE>
+<es_ES>Esta actualización soluciona un problema que puede darse al realizar la instalación desde el panel de Adobe Exchange.</es_ES>
+<fi_FI>Tämä päivitys korjaa ongelman, joka voi ilmetä, kun suoritat asennuksen Adobe Exchange -paneelista.</fi_FI>
+<fr_FR>Cette mise à jour corrige un problème pouvant se produire à l’installation du panneau Adobe Exchange.</fr_FR>
+<hu_HU>Ez a frissítés egy olyan hibát javít ki, amely az Adobe Exchange panelről történő telepítéskor jelentkezhet.</hu_HU>
+<it_IT>Questo aggiornamento corregge un errore che può verificarsi quando si esegue l’installazione dal pannello Adobe Exchange.</it_IT>
+<ja_JP>本アップデートは、Adobe Exchange パネルからのインストールの際に発生する問題を修正します。</ja_JP>
+<ko_KR>이 업데이트는 Adobe Exchange 패널에서 설치할 때 발생할 수 있는 문제를 수정합니다.</ko_KR>
+<nb_NO>Denne oppdateringen retter et problem som kan oppstå når du installerer fra Adobe Exchange-panelet.</nb_NO>
+<nl_NL>Met deze update wordt een probleem hersteld dat kan optreden wanneer u installeert vanuit het deelvenster Adobe Exchange.</nl_NL>
+<pl_PL>W tej aktualizacji poprawiono błąd występujący niekiedy podczas instalowania z panelu Adobe Exchange.</pl_PL>
+<pt_BR>Esta atualização corrige um problema que pode ocorrer na instalação do painel do Adobe Exchange.</pt_BR>
+<ru_RU>В обновлении исправлена ошибка, возникающая при установке программ с панели Adobe Exchange.</ru_RU>
+<sv_SE>Den här uppdateringen korrigerar ett fel som kan uppstå vid installation från Adobe Exchange-panelen.</sv_SE>
+<tr_TR>Bu güncelleme Adobe Exchange panelinden yükleme yapılırken oluşabilecek bir sorunu düzeltir.</tr_TR>
+<uk_UA>В оновленні виправлено помилку, що виникає під час встановлення програм із панелі Adobe Exchange.</uk_UA>
+<zh_CN>此更新可修复从 Adobe Exchange 面板安装时出现的问题。</zh_CN>
+<zh_TW>此更新可修正從 Adobe Exchange 面板進行安裝時發生的問題。</zh_TW>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobeExtensionManagerCS6-6.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File RIBSBased="1">
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>AdobePatchInstaller.exe</ExecutableName>
+<Size>6193751</Size>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+<UpdateRef Combo="0" ReFetch="0" RefID="AdobeApplicationManager-1.0/update14" Viewed="1" WaitingForProductEvent="0">
+<RecommendationList>
+<Recommendation>
+<ChannelID>AdobeApplicationManager-1.0</ChannelID>
+</Recommendation>
+</RecommendationList>
+<TargetBuildType>2</TargetBuildType>
+<TargetLicensingType>0</TargetLicensingType>
+<State>0</State>
+<Error>0</Error>
+<DisplayName default="en_US">
+<ar_AE>Adobe Application Manager</ar_AE>
+<bg_BG>Adobe Application Manager</bg_BG>
+<cs_CZ>Adobe Application Manager</cs_CZ>
+<da_DK>Adobe Application Manager</da_DK>
+<de_DE>Adobe Application Manager</de_DE>
+<el_GR>Adobe Application Manager</el_GR>
+<en_US>Adobe Application Manager</en_US>
+<es_ES>Adobe Application Manager</es_ES>
+<et_EE>Adobe Application Manager</et_EE>
+<fi_FI>Adobe Application Manager</fi_FI>
+<fr_FR>Adobe Application Manager</fr_FR>
+<he_IL>Adobe Application Manager</he_IL>
+<hr_HR>Adobe Application Manager</hr_HR>
+<hu_HU>Adobe Application Manager</hu_HU>
+<it_IT>Adobe Application Manager</it_IT>
+<ja_JP>Adobe Application Manager</ja_JP>
+<ko_KR>Adobe Application Manager</ko_KR>
+<lt_LT>Adobe Application Manager</lt_LT>
+<lv_LV>Adobe Application Manager</lv_LV>
+<nb_NO>Adobe Application Manager</nb_NO>
+<nl_NL>Adobe Application Manager</nl_NL>
+<pl_PL>Adobe Application Manager</pl_PL>
+<pt_BR>Adobe Application Manager</pt_BR>
+<ro_RO>Adobe Application Manager</ro_RO>
+<ru_RU>Adobe Application Manager</ru_RU>
+<sk_SK>Adobe Application Manager</sk_SK>
+<sl_SI>Adobe Application Manager</sl_SI>
+<sv_SE>Adobe Application Manager</sv_SE>
+<tr_TR>Adobe Application Manager</tr_TR>
+<uk_UA>Adobe Application Manager</uk_UA>
+<zh_CN>Adobe Application Manager</zh_CN>
+<zh_TW>Adobe Application Manager</zh_TW>
+</DisplayName>
+<Description default="en_US">
+<en_US>Required to keep Adobe applications up to date, includes Adobe Software Integrity Service</en_US>
+<cs_CZ>Nezbytný nástroj k zajištění aktualizací pro aplikace Adobe. Součástí je služba Adobe Software Integrity Service</cs_CZ>
+<da_DK>Påkrævet for at holde Adobe-programmer opdateret, omfatter Adobe Software Integrity Service</da_DK>
+<de_DE>Erforderlich, um Adobe-Applikationen auf dem neuesten Stand zu halten. Umfasst Adobe Software Integrity Service</de_DE>
+<es_ES>Necesario para mantener las aplicaciones de Adobe actualizadas. Incluye Adobe Software Integrity Service.</es_ES>
+<es_MX>Necesario para mantener las aplicaciones de Adobe actualizadas. Incluye Adobe Software Integrity Service.</es_MX>
+<fi_FI>Tarvitaan Adoben sovellusten pitämiseksi ajan tasalla, sisältää Adobe Software Integrity Servicen</fi_FI>
+<fr_FR>Nécessaire pour garder les applications Adobe à jour, y compris Adobe Software Integrity Service</fr_FR>
+<fr_CA>Nécessaire pour garder les applications Adobe à jour, y compris Adobe Software Integrity Service</fr_CA>
+<it_IT>Richiesto per mantenere le applicazioni Adobe aggiornate. Comprende Adobe Software Integrity Service</it_IT>
+<ja_JP>Adobe Software Integrity Service を含むアドビアプリケーションを最新の状態に保つ必要があります</ja_JP>
+<ko_KR>Adobe 응용 프로그램을 최신 상태로 유지하기 위해 필요하며, Adobe Software Integrity Service를 포함합니다</ko_KR>
+<nb_NO>Nødvendig for å holde Adobe-applikasjoner oppdatert, inkludert Adobe Software Integrity Service</nb_NO>
+<nl_NL>Vereist om Adobe-toepassingen up-to-date te houden. Bevat Adobe Software Integrity Service</nl_NL>
+<pl_PL>Wymagany do aktualizacji aplikacji Adobe. Zawiera usługę Adobe Software Integrity Service</pl_PL>
+<pt_BR>Necessário para manter os aplicativos da Adobe atualizados, inclui o Adobe Software Integrity Service</pt_BR>
+<ru_RU>Необходим для поддержки актуальности приложений Adobe. Включает службу Adobe Software Integrity Service.</ru_RU>
+<sv_SE>Krävs för att hålla Adobe-program uppdaterade, inklusive Adobe Software Integrity Service</sv_SE>
+<tr_TR>Adobe uygulamalarının güncel tutulması için gereklidir, Adobe Software Integrity Service&apos;ı içerir</tr_TR>
+<zh_CN>需要始终将 Adobe 应用程序保持为最新版本，包括 Adobe Software Integrity Service</zh_CN>
+<zh_TW>必須讓 Adobe 應用程式保持最新狀態，包含 Adobe Software Integrity Service</zh_TW>
+</Description>
+<AffectedChannels>
+<ChannelID>AdobeApplicationManager-1.0</ChannelID>
+</AffectedChannels>
+<InstallFiles>
+<File>
+<Name>setup.zip</Name>
+<Type>1</Type>
+<ExecutableName>Set-up.exe</ExecutableName>
+<SilentExecutableArgs>--action=update</SilentExecutableArgs>
+<Size>77875038</Size>
+<State>0</State>
+<Error>0</Error>
+</File>
+</InstallFiles>
+<NeedsReboot>0</NeedsReboot>
+</UpdateRef>
+</Updates>

@@ -1,0 +1,208 @@
+ body{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 13px ;
+     color: #333333 ;
+ }
+ #header {
+
+    background: #222222;
+}
+#logo, #search, #cart {
+    height: 60px;
+    padding-top : 11px;
+}
+#logo button{
+    background: #ffffff;
+    float: right;
+  
+}
+h1 { font-size: 0;
+
+}
+#search {
+    padding-top: 13px ;
+}
+#search input {
+    width: 280px;
+    height: 32px;
+    font-size: 13px;
+    border: none;
+    border-radius: 3px 0 0 3px ;
+}
+#search button {
+    height: 32px;
+    font-size: 13px;
+    border: none;
+    border-radius: 0 3px 3px 0 ;
+    background: #eb1f27;
+    color: white;
+    
+    
+
+}
+
+#cart {
+    text-align: right;
+}
+#cart a, #cart span{
+    color: white;
+    text-transform: capitalize;
+}
+#cart span{
+   background: #eb1f27;
+   width: 30px;
+   height: 30px;
+   display: inline-table;
+   border-radius:50% ;
+   text-align: center;
+   line-height: 30px;
+}
+/* body */
+#body {
+    background: #e7ecf4;
+    padding-bottom: 20px;
+}
+/* menu */
+
+#menu ul{
+    padding-left: 0;
+    background: #eb1f27;
+    overflow: hidden;
+}
+
+#menu li{
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    list-style: none;
+    padding: 0 15px;
+    border-right: 1px solid #c60a11;
+}
+#menu li a{
+    color: #ffffff;
+}
+#menu li:hover{
+    background: #c60a11; 
+}
+#menu li:hover a{
+    text-decoration: none;
+    
+}
+/* sidebar */
+.banner-item {
+    margin-bottom: 11px;
+}
+
+   
+/* product */
+.products h2 {
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.product-list {
+    margin-left: -2.5px !important;
+    margin-right: -2.5px !important;   
+}
+.product-list:last-child {
+    padding-top: 5px;
+}
+.product-item {
+    text-align: center;
+    margin-left: 2.5px !important;
+    margin-right: 2.5px !important;
+    border: 1px solid #999999;
+}
+.product-item img {
+   
+    height: 160px;
+    margin: 15px 0;
+    text-align: center;
+}
+.product-item h3, .product-item p {
+    font-size: 13px;
+    
+    text-align: center;
+}
+.product-item p span {
+    color: #eb1f27;
+    font-weight: bold;
+}
+.product-item  a h3 {
+    font-weight: bold;
+    color: black    ;
+}
+.product-item  a:hover {
+    text-decoration: none;
+}
+/* bottom */
+#footer-t{
+    background: #ffffff;    
+
+}
+#logo-2, #address, #service, #hotline {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#logo-2 img{
+    padding-bottom: 10px;
+}
+#logo-2 p{
+    text-align: justify ;
+}
+#address h3, #service h3, #hotline h3{
+    font-size: 18px;
+    border-bottom: 1px solid #333333;
+    padding-bottom: 15px;
+}
+#footer-b {
+    background: #1d1e24;
+    color: #a1b1bc;
+    
+}
+#footer-b p{
+    margin-bottom: 0;
+padding: 13px 0;
+}
+@media (max-width:992px) {
+    #sidebar {
+        display: none;
+    }
+}
+@media (max-width:768px) {
+    #cart {
+        text-align: left;
+        
+    }
+    #carouselExampleIndicators {
+        display: none;
+    }
+    #menu ul li{
+        float:none;
+        border: none;
+        border-bottom: 1px solid #c60a11;
+    }
+}
+@media (min-width:768px){
+    #logo button {
+        display: none; 
+    }
+    
+    #menu {
+        display: block;
+    }
+}
+/* chi tiet san pham */
+#product-img {
+    background: #ffffff;
+    margin-top: 20px;
+}
+#product-img img {
+    width: 250px;
+    text-align: center;
+    
+}
+#product-img ul {
+    list-style: none;
+    
+}

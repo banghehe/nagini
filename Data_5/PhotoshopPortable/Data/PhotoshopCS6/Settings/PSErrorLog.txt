@@ -1,0 +1,2 @@
+2016:01:20 10:35:07 : ..\..\sources\UTextFace.cpp : 3497 : REQUIRE failed
+2016:01:20 10:35:07 : ..\..\sources\UTextFace.cpp : 3497 : REQUIRE failed

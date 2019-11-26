@@ -1,0 +1,526 @@
+
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCS6Support-13.0/13.0.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDirector12_jp/12
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDirector12_de/12
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDirector12_en/12
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDirector12_fr/12
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/2.07
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/2.0.6
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCS6-6.0/6.0.6
+2019-06-07T12:49:13: Revoking update:  = REVOKE/AAMEE-3.1/AAMEE-3.1/3.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremiereProCS6-6.0.0-Trial/6.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremiereProCS6-6.0.0-Trial/6.0.4
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCC-7.0/7.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCCSupport-14.0/14.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/27.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/27.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.1.79
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.1.79
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCCSupport-14.0/14.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCS6-8.0/8.0.1.407
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCS6-8.0/8.0.1.407
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffectsCS6-11/11.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-2.0.0-Trial/2.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-7.0.0-Trial/7.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-7.0.0-Trial/7.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoderX64-7/7.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCS6Support-13.0/13.0.1.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro13.0-64bit/13.0.1
+2019-06-07T12:49:13: CFU(Webfeed): Getting update info manifest for update refID: AdobeExtensionManagerCS6-6.0/6.0.8
+2019-06-07T12:49:13: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2019-06-07T12:49:13: No valid license found for  = ExMan-CS6-Win-GM
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCS6-6.0/6.0.7
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.2.67
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.2.67
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements12-8.0/8.2.67
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCC-7.0/7.1.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-7.0.0-Trial/7.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoderX64-7/7.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffectsCS6-11/11.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweaverCS7-13/13.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro13.0-64bit/13.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-7.0.0-Trial/7.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/28.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/28.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCCSupport-14.0/14.1.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator17-mul_x64/17.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator17-mul/17.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCCx64-9.0/9.1.0.032
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCC-9.0/9.1.0.032
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC-9.0/9.1.0.033
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCCx64-9.0/9.1.0.033
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-12.0.0/12.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCCSupport-14.0/14.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweaverCS7-13/13.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/29.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/29.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/30.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/30.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC-9.0/9.2.0.069
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCCx64-9.0/9.2.0.069
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-7.0.0-Trial/7.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDrive5-5.0.0/5.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-7.0.0-Trial/7.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoderX64-7/7.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.3.52
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.3.52
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements12-8.0/8.3.52
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.4.76
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker12-12/12.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/30.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/30.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC-9.0/9.2.1.101
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCCx64-9.0/9.2.1.101
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCC-9.0/9.2.0.069
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCCx64-9.0/9.2.0.069
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.4.79
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.4.76
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC-6.0/6.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC64Bit-6.0/6.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCC-7.0/7.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements12-8.0/8.4.76
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCC-7.0/7.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp11-11/11.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/31.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/31.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2014-2.0/31.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.5.50
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.5.50
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.0.0-Trial/13.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2014-2.0/31.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/31.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/31.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker12-12/12.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMakerXMLAuthor12-12/12.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp11-11/11.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExtensionManagerCC-7.0/7.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoder-8.0.0-Trial/8.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro14.0PR-64bit/14.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2014-15.0/15.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201432Bit-15.0/15.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.0.0-Trial/13.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201432Bit-15.0/15.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2014-15.0/15.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.6.28
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.6.28
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2014-15.0/15.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201432Bit-15.0/15.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.7.54
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.7.54
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator18-mul/18.1.0.430.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator18-mul_x64/18.1.0.430.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements13-8.6-x64/8.7.54
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements13-8.6/8.7.54
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-8.0.0-Trial/8.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAudition-7.0.0-Trial/7.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoder-8.0.0-Trial/8.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-8.0.0-Trial/8.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.0.0-Trial/13.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-3.0.0-Trial/3.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCS6-8.0/8.0.2.413
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCCx64-9.0/9.2.2.103
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC-9.0/9.2.2.103
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCS6-8.0/8.0.2.413
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCS6-8.0/8.0.3.420
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCS6-8.0/8.1.0.420
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp11-11/11.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker12-12/12.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMakerXMLAuthor12-12/12.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC2014-10.0/10.1.0.070
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC201432-bit-10.0/10.1.0.070
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro14.0PR-64bit/14.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.7.57
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.7.57
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/8.8.70
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/8.8.70
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements13-8.6-x64/8.7.57
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements13-8.6/8.7.57
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC-6.0/6.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC64Bit-6.0/6.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.0.592
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/9.0.592
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDrive5-5.0.0/5.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul_x64/19.0.1.52.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul/19.0.1.52.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2014-2.0/32.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/32.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/32.0.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.1.60
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw7-7.0/9.1.60
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePreviewCC32bit-1.0.0/1.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePreviewCC-1.0.0/1.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC201532-bit-11.0/11.0.1.105
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC2015-11.0/11.0.1.105
+2019-06-07T12:49:13: CFU(Webfeed): Getting update info manifest for update refID: AdobeApplicationManager-1.0/update14
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeApplicationManager-1.0/update7
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-9.0.0-Trial/9.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoder-9.0.0-Trial/9.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2015-3.0/2015.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2014-2.0/2015.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/2015.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/2015.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.1.88
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCS6-2.0/2015.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/2015.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2015-3.0/2015.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2014-2.0/2015.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul_x64/19.1.0.29.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul/19.1.0.29.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.2.89
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements14-9.1-x64/9.2.89
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements14-9.1/9.2.89
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker13-13/13.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMakerXMLAuthor13-13/13.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp12-12/12.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoder-9.0.0-Trial/9.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-9.0.0-Trial/9.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.5.0-Trial/13.5.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeCharacterAnimatorPreview-1.0/1.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-9.0.0-Trial/9.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweavercc64Bit-16/16.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweavercc-16/16.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC201532-bit-11.0/11.1.0.122
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC2015-11.0/11.1.0.122
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul_x64/19.1.1.35.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul/19.1.1.35.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201532Bit-16.0/16.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2015-16.0/16.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExportAssets2-2.0/2.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeExportAssets264bit-2.0/2.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePreviewCC-1.0.0/1.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePreviewCC32bit-1.0.0/1.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.3.38
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2015-16.0/16.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201532Bit-16.0/16.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.5.0-Trial/13.6.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2015-3.0/2015.5
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201532Bit-16.0/16.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2015-16.0/16.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul_x64/19.2.0.111.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeIllustrator19-mul/19.2.0.111.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeCaptivate864Bit-8.0/8.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeCaptivate832Bit-8.0/8.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-4.0.0-Trial/4.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.3.48
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.5.0-Trial/13.6.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-9.0.0-Trial/9.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeMediaEncoder-9.0.0-Trial/9.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements14-9.1-x64/9.3.38
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements14-9.1/9.3.38
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC64Bit-6.0/6.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC-6.0/6.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2015-3.0/2016.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2014-2.0/2015.5
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC-2.0/2015.5
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2015-3.0/2016.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC2015-11.0/11.2.0.100
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC201532-bit-11.0/11.2.0.100
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-4.0.0-Trial/4.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweavercc-16/16.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweavercc64Bit-16/16.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.4.51
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.4
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements14-9.1-x64/9.4.51
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements14-9.1/9.4.51
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.5.0-Trial/13.7.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp12-12/12.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker13-13/13.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMakerXMLAuthor13-13/13.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker13-13/13.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.5.50
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.5
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDigitalPublishingCC2015-3.0/2016.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweavercc64Bit-16/16.1.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeDreamweavercc-16/16.1.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.5.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.5.73
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCC2015-11.0/11.0.1.105
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInCopyCC201532-bit-11.0/11.0.1.105
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC2015-11.0/11.3.0.034
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC201532-bit-11.0/11.3.0.034
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.6.126
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker13-13/13.0.3.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.6
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeCaptivate964Bit-9.0/9.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC2015-11.0/11.4.0.090
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC201532-bit-11.0/11.4.0.090
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.6.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.6.147
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp12-12/12.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker13-13/13.0.4
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeCaptivate964Bit-9.0/9.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeCaptivate932Bit-9.0.1/9.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements11-7.1-x64/7.3.37
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw764bit-7.0/7.1.71
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw764bit-7.0/7.3.37
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw764bit-7.0/7.2.82
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRoboHelp12-12/12.0.4
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.7
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.7.112
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements15-9.6-x64/9.7.112
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.8
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.8.63
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements15-9.6-x64/9.8.63
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.9
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.9.101
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements15-9.6-x64/9.9.101
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.10.38
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.10
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker14-14/14.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.10.60
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.10.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.12.89
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeRobohelp13-13/13.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/9.12.104
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.12
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker14-14/14.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePresenterVideoExpress201732Bit-2017.0/2017.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePresenterVideoExpress201764Bit-2017.0/2017.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/10.0.92
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements16-9.12-x64/10.0.92
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.13
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/10.1.90
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements16-9.12-x64/10.1.90
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFrameMaker14-14/14.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/10.2.66
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/10.3.59
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRaw8-8.0/10.4.62
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/PhotoshopCameraRawForElements16-9.12-x64/10.2.66
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeLightroom-6.0/6.14
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCCx64-9.0/9.3.106
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC-6.0/6.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeBridgeCC64Bit-6.0/6.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201532Bit-16.0/16.1.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2015-16.0/16.1.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC201432Bit-15.0/15.2.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCC2014-15.0/15.2.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCCSupport-14.0/14.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCS6Support-13.0/13.0.1.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro13.0-64bit/13.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro14.0PR-64bit/14.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeFlash-15.0.0/15.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAnimate-15.1.0/15.1.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-4.0.0-Trial/4.3.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-3.0.0-Trial/3.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-3.0.0-Trial/3.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-2.0.0-Trial/2.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePrelude-2.0.0-Trial/2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremiereProCS6-6.0.0-Trial/6.0.5
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-7.0.0-Trial/7.2.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-8.0.0-Trial/8.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-8.0.0-Trial/8.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePremierePro-9.0.0-Trial/9.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAudition-7.0.0-Trial/7.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAudition-7.0.0-Trial/7.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAudition-8.0.0-Trial/8.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-7.0.0-Trial/7.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-7.0.0-Trial/7.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-8.0.0-Trial/8.0.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-8.0.0-Trial/8.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGrade-9.0.0-Trial/9.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.5.0-Trial/13.7.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCC-9.0/9.3.106
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCS6-8.0/8.1.0.422
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeInDesignCS6-8.0/8.1.0.421
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.0.0-Trial/13.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-13.0.0-Trial/13.2.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffectsCS6-11/11.0.4
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-12.0.0/12.1.0
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAfterEffects-12.0.0/12.2.1
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeSpeedGradeCS6-6.0.0-Trial/6.0.4
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobeAuditionCS6-5.0/5.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/FlashPro12.0/12.0.2
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePreludeCS6-1.0.0-Trial/1.0.3
+2019-06-07T12:49:13: Revoking update:  = REVOKE/ALL/AdobePhotoshopCS6Support-13.0/13.1.2
+2019-06-07T12:49:13: Check for Updates was done successfully.
+2019-06-07T12:49:13: UCGetprogress : Check for updates returning state for reffId  = 
+2019-06-07T12:49:13: UCGetprogress : Check for updates returning state     = 21
+2019-06-07T12:49:13: UCGetprogress : Check for updates returning outError  = 0
+2019-06-07T12:49:13: UCGetprogress : Check for updates returning percent   = 100
+2019-06-07T12:49:13: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2019-06-07T12:49:14: Returning from << UCTerminate >> call with value = 1
+2019-06-07T12:49:14: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2019-06-07T12:49:14: <<< Adobe Updater Log End <<<
+
+
+2019-06-07T12:49:14: >>> Adobe Updater Log Begin >>>
+2019-06-07T12:49:14: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-07T12:49:14: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-07T12:49:14: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-07T12:49:14: UCInitialize : AAMLauncher was NOT running.
+2019-06-07T12:49:14: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-07T12:49:15: UCSetViewedUpdates : Loaded in AAM Updates Notifier mode.
+2019-06-07T12:49:15: UCSetViewedUpdates : User level lock acquired for AAM Updates Notifier.
+2019-06-07T12:49:15: SetViewedUpdate: The update is waiting for a product event! Not set to viewed.
+2019-06-07T12:49:15: UCSetViewedUpdates : AAM Notifier releasing csutracker database and SetViewedUpdates lock.
+2019-06-08T01:48:02: >>> Adobe Updater Log Begin >>>
+2019-06-08T01:48:02: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-08T01:48:02: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-08T01:48:02: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-08T01:48:02: UCInitialize : AAMLauncher was NOT running.
+2019-06-08T01:48:03: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-08T01:48:03: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2019-06-08T01:48:03: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2019-06-08T01:48:03: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-08T01:48:04: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-08T01:48:04: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-08T01:48:05: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-08T01:48:05: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-08T01:48:05: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-08T01:48:05: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-08T01:48:05: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-08T01:48:05: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2019-06-08T01:48:05: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2019-06-08T01:48:05: No valid license found for  = ExMan-CS6-Win-GM
+2019-06-08T01:48:05: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2019-06-08T01:48:08: CFU(Webfeed):: Web feed hasn't changed since last time.
+2019-06-08T01:48:08: CFU(Webfeed): Webfeed is empty
+2019-06-08T01:48:08: CFU(Webfeed): MRL is empty
+2019-06-08T01:48:08: Check for Updates was done successfully.
+2019-06-08T01:48:08: UCGetprogress : Check for updates returning state for reffId  = 
+2019-06-08T01:48:08: UCGetprogress : Check for updates returning state     = 21
+2019-06-08T01:48:08: UCGetprogress : Check for updates returning outError  = 0
+2019-06-08T01:48:08: UCGetprogress : Check for updates returning percent   = 100
+2019-06-08T01:48:08: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2019-06-08T01:48:09: Returning from << UCTerminate >> call with value = 1
+2019-06-08T01:48:09: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2019-06-08T01:48:09: <<< Adobe Updater Log End <<<
+
+
+2019-06-08T01:48:10: >>> Adobe Updater Log Begin >>>
+2019-06-08T01:48:10: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-08T01:48:10: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-08T01:48:10: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-08T01:48:10: UCInitialize : AAMLauncher was NOT running.
+2019-06-08T01:48:10: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-09T12:05:32: >>> Adobe Updater Log Begin >>>
+2019-06-09T12:05:32: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-09T12:05:33: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-09T12:05:33: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-09T12:05:37: UCInitialize : AAMLauncher was NOT running.
+2019-06-09T12:05:39: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-09T12:05:39: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2019-06-09T12:05:39: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2019-06-09T12:05:39: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:05:48: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:05:48: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:05:49: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:05:49: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-09T12:05:49: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:05:50: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:05:50: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-09T12:05:50: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2019-06-09T12:05:50: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2019-06-09T12:05:51: No valid license found for  = ExMan-CS6-Win-GM
+2019-06-09T12:05:51: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2019-06-09T12:05:57: CFU(Webfeed):: Web feed hasn't changed since last time.
+2019-06-09T12:05:57: CFU(Webfeed): Webfeed is empty
+2019-06-09T12:05:57: CFU(Webfeed): MRL is empty
+2019-06-09T12:05:57: Check for Updates was done successfully.
+2019-06-09T12:05:57: UCGetprogress : Check for updates returning state for reffId  = 
+2019-06-09T12:05:57: UCGetprogress : Check for updates returning state     = 21
+2019-06-09T12:05:57: UCGetprogress : Check for updates returning outError  = 0
+2019-06-09T12:05:57: UCGetprogress : Check for updates returning percent   = 100
+2019-06-09T12:05:57: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2019-06-09T12:05:58: Returning from << UCTerminate >> call with value = 1
+2019-06-09T12:05:58: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2019-06-09T12:05:58: <<< Adobe Updater Log End <<<
+
+
+2019-06-09T12:06:02: >>> Adobe Updater Log Begin >>>
+2019-06-09T12:06:02: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-09T12:06:02: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-09T12:06:02: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-09T12:06:02: UCInitialize : AAMLauncher was NOT running.
+2019-06-09T12:06:02: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-09T12:07:20: Returning from << UCTerminate >> call with value = 1
+2019-06-09T12:07:20: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2019-06-09T12:07:20: <<< Adobe Updater Log End <<<
+
+
+2019-06-09T12:07:20: >>> Adobe Updater Log Begin >>>
+2019-06-09T12:07:20: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-09T12:07:20: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-09T12:07:20: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-09T12:07:20: UCInitialize : AAMLauncher was NOT running.
+2019-06-09T12:07:20: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-09T12:07:20: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2019-06-09T12:07:20: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2019-06-09T12:07:20: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:07:21: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:07:21: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:07:21: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:07:21: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-09T12:07:21: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:07:22: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-09T12:07:22: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-09T12:07:22: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2019-06-09T12:07:22: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2019-06-09T12:07:22: No valid license found for  = ExMan-CS6-Win-GM
+2019-06-09T12:07:22: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2019-06-09T12:07:23: CFU(Webfeed):: Web feed hasn't changed since last time.
+2019-06-09T12:07:23: CFU(Webfeed): Webfeed is empty
+2019-06-09T12:07:23: CFU(Webfeed): MRL is empty
+2019-06-09T12:07:24: Check for Updates was done successfully.
+2019-06-09T12:07:24: UCGetprogress : Check for updates returning state for reffId  = 
+2019-06-09T12:07:24: UCGetprogress : Check for updates returning state     = 21
+2019-06-09T12:07:24: UCGetprogress : Check for updates returning outError  = 0
+2019-06-09T12:07:24: UCGetprogress : Check for updates returning percent   = 100
+2019-06-09T12:07:24: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2019-06-09T12:07:24: Returning from << UCTerminate >> call with value = 1
+2019-06-09T12:07:24: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2019-06-09T12:07:24: <<< Adobe Updater Log End <<<
+
+
+2019-06-09T12:07:25: >>> Adobe Updater Log Begin >>>
+2019-06-09T12:07:25: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-09T12:07:25: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-09T12:07:25: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-09T12:07:25: UCInitialize : AAMLauncher was NOT running.
+2019-06-09T12:07:25: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-10T07:11:48: >>> Adobe Updater Log Begin >>>
+2019-06-10T07:11:48: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-10T07:11:48: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-10T07:11:48: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-10T07:11:48: UCInitialize : AAMLauncher was NOT running.
+2019-06-10T07:11:48: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2019-06-10T07:11:48: UCCheckForUpdates : Updater is loaded in AAM Updates Notifier mode.
+2019-06-10T07:11:48: UCCheckForUpdates : User level lock acquired for AAM Updates Notifier.
+2019-06-10T07:11:48: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-10T07:11:49: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-10T07:11:50: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-10T07:11:50: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-10T07:11:50: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-10T07:11:50: CFU(Webfeed): Query licensing type for LEID  = Dreamweaver-CS6-Win-GM
+2019-06-10T07:11:50: A valid perpetual license found for  = Dreamweaver-CS6-Win-GM
+2019-06-10T07:11:50: CFU(Webfeed): Patch is meant only for subscription licenses, but client doesn't have a valid subscription license. 
+2019-06-10T07:11:50: Going in waiting state as following Recommendation is no more valid for this update(license mismatch)
+2019-06-10T07:11:50: CFU(Webfeed): Query licensing type for LEID  = ExMan-CS6-Win-GM
+2019-06-10T07:11:51: No valid license found for  = ExMan-CS6-Win-GM
+2019-06-10T07:11:51: Returning from << UCCheckForUpdates >> call with outErr value -  = 0
+2019-06-10T07:11:51: CFU(Webfeed):: Web feed hasn't changed since last time.
+2019-06-10T07:11:51: CFU(Webfeed): Webfeed is empty
+2019-06-10T07:11:51: CFU(Webfeed): MRL is empty
+2019-06-10T07:11:51: Check for Updates was done successfully.
+2019-06-10T07:11:51: UCGetprogress : Check for updates returning state for reffId  = 
+2019-06-10T07:11:51: UCGetprogress : Check for updates returning state     = 21
+2019-06-10T07:11:51: UCGetprogress : Check for updates returning outError  = 0
+2019-06-10T07:11:51: UCGetprogress : Check for updates returning percent   = 100
+2019-06-10T07:11:51: UCGetprogress : Check for updates returning unique error code string   = U21M1C0
+2019-06-10T07:11:52: Returning from << UCTerminate >> call with value = 1
+2019-06-10T07:11:52: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2019-06-10T07:11:52: <<< Adobe Updater Log End <<<
+
+
+2019-06-10T07:11:53: >>> Adobe Updater Log Begin >>>
+2019-06-10T07:11:53: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2019-06-10T07:11:53: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+2019-06-10T07:11:53: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2019-06-10T07:11:53: UCInitialize : AAMLauncher was NOT running.
+2019-06-10T07:11:53: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0

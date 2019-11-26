@@ -1,0 +1,11 @@
+﻿GIỚI THIỆU, CÀI ĐẶT & LÀM VIỆC
+www.mediafire.com/download/v9s8yob9swv65cq/php_basic_01.rar
+
+BIẾN, HẰNG, CHUỖI VÀ CÁC KIỂU DỮ LIỆU
+http://www.mediafire.com/download/droz69nw98qecww/php+basic+02.rar
+
+TOÁN TỬ TRONG PHP
+http://www.mediafire.com/download/x2mk1y70p78sqns/php+basic+03.rar
+
+CÁC BIỂU THỨC ĐIỀU KIỆN & VÒNG LẶP
+http://www.mediafire.com/download/nviomz1c7o26a4i/php+basic+04.rar

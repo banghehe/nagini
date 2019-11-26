@@ -1,0 +1,8 @@
+﻿CÁC PHƯƠNG THỨC TRUYỀN DỮ LIỆU TRONG PHP
+http://www.mediafire.com/download/4wz23x6ubccswn1/php+basic+05.rar
+
+DỮ LIỆU KIỂU MẢNG & CÁC HÀM HỖ TRỢ MẢNG
+http://www.mediafire.com/download/x3nqf0zx1jjkeum/php+basic+06.rar
+
+KHÁI NIỆM VỀ HÀM TRONG PHP
+http://www.mediafire.com/download/ske4ddofckyvchl/php+basic+07.rar

@@ -1,0 +1,19 @@
+2019-04-24T08:03:02: >>> Adobe Updater Log Begin >>>
+2019-04-24T08:03:02: Application Version: 6.0.0.24
+2019-04-24T08:03:02: cmdline option: -logFile = C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamun.log
+2019-04-24T08:03:02: cmdline option: -logLevel = 2
+2019-04-24T08:03:02: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2019-04-24T08:03:02: is  task present thread returns  true.
+2019-04-24T08:03:02: UpdaterNotifications : Automatic updater scheduled check was missed.
+2019-04-24T08:03:02: is  task present thread returns  false.
+2019-04-24T08:03:02: UpdaterNotifications : Fallback task is not present
+2019-04-24T08:03:02: UpdaterNotifications : No other task scheduled. Adding fall back task to run updater after 30 minutes
+2019-04-24T08:03:02: UpdaterNotifications : Stepped into << AddOneTimeUpdaterSchedulerTask >> call.
+2019-04-24T08:03:02: UpdaterNotifications : Adding one time scheduled task for csupdater.
+2019-04-24T08:03:02: add  task thread returns  true.
+2019-04-24T08:03:02: UpdaterNotifications : Successfully returning from  << AddOneTimeUpdaterSchedulerTask >> call.
+2019-04-24T08:03:02: UpdaterNotifications : Successfully added fall back task to run updater after 30 minutes
+2019-04-24T08:03:02: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2019-04-24T08:03:25: <<< Adobe Updater Log End <<<
+
+

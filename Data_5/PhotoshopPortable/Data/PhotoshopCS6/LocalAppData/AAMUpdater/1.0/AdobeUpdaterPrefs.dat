@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preferences>
+<StartupLogFile>C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log</StartupLogFile>
+<LogLevel>2</LogLevel>
+<NotificationLogFile>C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamun.log</NotificationLogFile>
+<SilentNotificationLogFile>C:\Users\MrTuan\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log</SilentNotificationLogFile>
+<WebFeedEtag>&quot;4479f-58875c1fe25bf&quot;</WebFeedEtag>
+<WebFeedSize>280479</WebFeedSize>
+<WebFeedSeqNo>1</WebFeedSeqNo>
+<LastDateCheck>2019-06-10T14:11:51</LastDateCheck>
+<CSUVersion>6.0</CSUVersion>
+<OSVersion>6.2.9200</OSVersion>
+<IsFirstRun>0</IsFirstRun>
+<ChannelsInstalled>
+<MapPrefEntry MapPrefKey="AdobeAPE3.3_Win_NoLocale">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCSXSExtensionsCS6-3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCSXSInfrastructureCS6-3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDreamweaverCS6-12">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDreamweaverCS6LangPacken_US-12">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDreamweaverWidgetBrowser-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeESTKCS6-3.8.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeExtensionManagerCS6-6.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeLinguisticsCS6-6.0.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="CSTI_CS6-3.0">1</MapPrefEntry>
+</ChannelsInstalled>
+<ChannelsEnabled>
+<MapPrefEntry MapPrefKey="AdobeAPE3.3_Win_NoLocale">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCSXSExtensionsCS6-3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCSXSInfrastructureCS6-3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDreamweaverCS6-12">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDreamweaverCS6LangPacken_US-12">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDreamweaverWidgetBrowser-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeESTKCS6-3.8.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeExtensionManagerCS6-6.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeLinguisticsCS6-6.0.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="CSTI_CS6-3.0">1</MapPrefEntry>
+</ChannelsEnabled>
+</Preferences>
